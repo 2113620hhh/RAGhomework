@@ -80,6 +80,7 @@ def process_medical_record():
                 mimetype='application/json; charset=utf-8'
             )
 
+
             return response
             #return ans
             #response_json = json.dumps(diagnosis_json, ensure_ascii=False, indent=2)
