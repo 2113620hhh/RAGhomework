@@ -1,0 +1,1251 @@
+﻿                                                                                                             Review
+
+
+Current concepts in coronary artery revascularisation
+
+Mario Gaudino, Felicita Andreotti, Takeshi Kimura
+
+Coronary artery revascularisation can be performed surgically or percutaneously. Surgery is associated with higher Lancet 2023; 401: 1611–28
+procedural risk and longer recovery than percutaneous interventions, but with long-term reduction of recurrent Published Online 
+cardiac events. For many patients with obstructive coronary artery disease in need of revascularisation, surgical or April 27, 2023 
+percutaneous intervention is indicated on the basis of clinical and anatomical reasons or personal preferences. https://doi.org/10.1016/ 
+                                                                                                           S0140-6736(23)00459-2
+Medical therapy is a crucial accompaniment to coronary revascularisation, and data suggest that, in some subsets of 
+                                                                                                           Department of Cardiothoracic 
+patients, medical therapy alone might achieve similar results to coronary revascularisation. Most revascularisation Surgery, Weill Cornell Medicine, 
+data are based on prevalently White, non-elderly, male populations in high-income countries; robust data in women, New York, NY, USA 
+older adults, and racial and other minorities, and from low-income and middle-income countries, are urgently (Prof M Gaudino MD); 
+needed.                                                                                                    Department of Cardiovascular 
+                                                                                                           Sciences, Fondazione 
+                                                                                                           Policlinico Universitario 
+Introduction                                          complication of CABG, but data are mixed and without Gemelli IRCCS, Rome, Italy 
+Coronary artery revascularisation is a common         solid evidence.11,12 Some studies reported similar (F Andreotti MD); Department 
+proce­dure in current medical practice. Every year almost neuropsychological dysfunction after either PCI or of Cardiology, Hirakata Kohsai 
+                                                                                                           Hospital, Osaka, Japan 
+                               1                   2        13,14
+800 000 patients in the USA,    900 000 in China,     CABG,    suggesting that cognitive decline in CABG   (Prof T Kimura MD)
+                 1,3                               4
+250 000 in Japan,  and over 1·2 million in Europe     patients might relate to ageing and systemic Correspondence to: 
+undergo revascularisation by either coronary artery   atherosclerotic disease rather than to the surgery itself. Prof Mario Gaudino, Department 
+bypass grafting (CABG) or percutaneous coronary       Other important complications are postoperative renal of Cardiothoracic Surgery, Weill 
+interventions(PCI). In the past 20 years, PCI, CABG, and (occurring in 1–2% of cases)15 and respiratory failure Cornell Medicine, New York, 
+                                                                                               16          NY 10065, USA 
+medical therapy for coronary artery disease have      (occurring in approximately 10% of cases);  they are mfg9004@med.cornell.edu
+undergone very important changes and their relative   usually rapidly reversible in patients with preserved 
+results have been tested in numerous randomised       preoperative function.
+controlled trials (RCTs).                               Postoperative atrial fibrillation is the most common 
+  In this Review, we evaluate the current evidence on complication of CABG, affecting 20–25% of patients.17 The 
+coronary revascularisation with the aim of summarising arrhythmia is generally well tolerated, with most patients 
+key concepts to help to inform clinical decision making. reverting to sinus rhythm within 1 or 2 days.17 However, 
+We also highlight gaps in knowledge and future research postoperative atrial fibrillation significantly increases 
+directions.                                           length of in-hospital stay, costs, risk of subsequent heart 
+                                                      failure and stroke, and even mortality, through 
+Coronary artery bypass surgery                        mechanisms that are not entirely clear.17,18 Postoperative 
+After almost three decades of attempts at indirect coronary atrial fibrillation also increases the risk of recurrent atrial 
+surgery (through pericardial, sympathetic system, or  fibrillation in the years after surgery.19 β blockers or 
+thyroid gland interventions),5 CABG was introduced in amiodarone and left posterior pericardiotomy are effective 
+the early 1970s and rapidly adopted (figure 1). Currently, it measures to prevent postoperative atrial fibrillation,20,21 
+is the most common heart operation, representing over whereas the roles of rhythm versus rate control and of 
+50% of all adult cardiac surgeries worldwide.6,7      systemic anticoagulation are less clear.22,23
+  During CABG, segments of arteries or veins are        Surgical wound complications occur in 5–10% of CABG 
+connected to the coronary arteries distal to flow-limiting patients,24,25 particularly in individuals with multiple risk 
+obstructions. Most operations are performed through   factors (eg, female sex, obesity, and diabetes), affecting 
+median sternotomy, with a cardiopulmonary bypass      postoperative quality of life.26 Sternal wound complications 
+pump, grafting the left anterior descending coronary  are associated with increased short-term and long-term 
+artery with the internal thoracic artery and bypassing the 
+remaining target coronary arteries with segments of the 
+great saphenous vein.8 Operative mortality has          Search strategy and selection criteria
+progressively declined despite referral of older and more We searched PubMed from the site’s inception to 
+comorbid patients, currently ranging between 1% and 2%  Dec 31, 2022 for references with the terms “coronary 
+for elective cases, and with values in the low decimal  revascularisation”, “percutaneous coronary intervention”, 
+                                                  7,8
+range for cases without preoperative organ dysfunction.  “coronary bypass surgery”, “medical therapy”, or any 
+Stroke is infrequent but is a serious complication of   combination of these terms in the title or abstract, and no 
+CABG, with a prevalence in modern series ranging        language restrictions. We also identified relevant articles 
+                             8,9
+between 0·5% and 1·5%.         Stroke can occur         from the reference lists of selected articles. We prioritised 
+intraoperatively, mainly through embolism from aortic   RCTs and publications from the past 10 years, but we cited 
+manipulation, or postoperatively from arrhythmias or    other references when relevant.
+hypotension.10 Cognitive decline is a potential 
+
+www.thelancet.com   Vol 401   May 13, 2023                                                                                1611
+      Review
+
+
+                       CABG
+                                             1967     1970
+                            CABG introduced in clinical practice Introduction of cardioplegia
+                                                       1971
+                                    1960
+                                                       Introduction of
+                          First CABG in a human                            1985
+                                                       radial artery       Oﬀ-pump CABG
+                                  1958                                                                      2009
+                        First selective coronary               1977–1982    1986                            SYNTAX trial (PCI vs CABG)
+                                                               VA, CASS, EU
+                              angiography                                   Beneﬁt of internal thoracic artery-left  2016
+                                                               RCTs comparing anterior descending artery anastomosis
+                             1950–60                           CABG with                                             EXCEL and
+                       Indirect myocardial                     medical therapy         1994                          NOBLE trials
+                         revascularisation                     alone                   Minimally invasive CABG       (PCI vs CABG)
+
+                        1935          1960          1970         1980          1990          2000          2010          2020
+
+                                                           1977          1987                 2002
+                                                                                                                        2018
+                                                      PTCA (POBA)        BMS                G1-DES
+                                                                                                                        Short 
+                                                               1980             1992               2006                 DAPT
+                                      First primary PCI for acute myocardial infarction Transradial approach Drug-coated balloon regimen
+                                                                 1981            1993                 2008          2015
+                                                        Steerable guidewire Rotational atherectomy   G2-DES         High bleeding
+                                                                                    1995                            risk concept
+                                                       Intravenous ultrasound-guided high-pressure inﬂation 2009
+                                                                                                            Fractional ﬂow
+                                                               P2Y12-inhibitor instead of anticoagulation
+                       PCI                                                                                  reserve-guided PCI
+
+                      Figure 1: Timeline of key advancements in surgical and percutaneous coronary revascularisation
+                      BMS=bare-metal stent. CABG=coronary artery bypass surgery. CASS=Coronary Artery Surgery Study. DAPT=dual antiplatelet. G1-DES=first-generation drug-eluting 
+                      stent. G2-DES=second-generation drug-eluting stent. PCI=percutaneous coronary intervention. PTCA=percutaneous transluminal coronary angioplasty. 
+                      POBA=plain old balloon angioplasty. RCTs=randomised clinical trials. SYNTAX=Synergy between Percutaneous Coronary Intervention with Taxus and Cardiac Surgery. 
+                      VA=Veterans Administration.
+
+                      mortality25 and with higher risk of graft failure (probably and Japan, for example, most CABG procedures are 
+                      owing to mediastinal inflammation and hypercoagula­   performed off-pump).8,35
+                      bility).27 Hospital readmission after CABG is frequent, The use of arterial rather than saphenous venous grafts 
+                      with reported rates of 10–15% at 30 days and 20–25% at to revascularise non-left anterior descending coronary 
+                      90 days.28 The most common reasons are pericardial    artery targets has been hypothesised to improve long-term 
+                      effusions, heart failure related to fluid overload,   CABG outcomes on the basis of the higher failure rate of 
+                      arrhythmias, and wound complications, whereas venous grafts compared with arterial conduits.36,37 
+                      myocardial ischaemia and graft failure are less common.28 Although observational series have generally reported 
+                        Patients generally recover from surgery within      better overall and event-free survival for patients operated 
+                      2–3 months, with large variations based on age,       upon with multiple versus single arterial grafts, RCTs 
+                      preoperative comorbidity, and severity of heart disease. have not shown significant differences between groups,38 
+                      Adoption of Enhanced Recovery After Surgery (ERAS)    and treatment allocation and experience bias might be the 
+                      protocols can reduce complications and accelerate return reason for the reported differences in observational 
+                      to healthy life.29 Centre-based and home-based post­  studies. The ongoing ROMA trial39 should provide more 
+                      operative rehabilitation reduces hospital readmissions definitive information.
+                      and shortens recovery time.30 Depression and anxiety are Minimally invasive CABG through ministernotomy or 
+                      common after surgery and behavioural, psychological, or small thoracotomies, often with the support of dedicated 
+                      pharmacological interventions might improve quality of (port-access) or robotic technologies, has been proposed 
+                      life and even clinical outcomes postoperatively.31    but not tested in adequately powered RCTs; it remains a 
+                                                                            niche for dedicated surgeons and highly selected 
+                      Procedural aspects of CABG                            patients.40 Hybrid revascularisation (minimally invasive 
+                      Off-pump CABG is undertaken without the cardio­       surgical grafting of the left anterior descending coronary 
+                      pulmonary bypass pump, with the use of dedicated      artery or of few selected targets, complemented by PCI of 
+                      instruments to stabilise the target vessels and perform the remaining vessels) has not been widely embraced in 
+                      anastomoses on the beating heart.32 Large RCTs have not clinical practice and the available evidence is scarce.41
+                      reported significant benefits compared with traditional 
+                      techniques,33,34 and there have been concerns over less Percutaneous coronary interventions
+                      complete revascularisation and higher risks of graft  The first PCI was reported by Andreas Gruentzig in 1977 
+                      failure when CABG is performed off-pump. Off-pump     to treat severe, discrete, non-calcified coronary artery 
+                      CABG is currently adopted routinely only by dedicated stenoses.42 PCI was subsequently applied to patients with 
+                      surgeons, although with important variations (in India acute myocardial infarction as early as 1980 (figure 1),43 
+
+1612                                                                                             www.thelancet.com   Vol 401   May 13, 2023
+                                                                                                                 Review
+
+
+becoming the first-choice reperfusion therapy in this generation drug-eluting stents (everolimus or 
+setting, given the survival and safety benefits of PCI over zotarolimus).51 Thus, despite referral of increasingly 
+intravenous thrombolytic therapy.44 PCI involves a guiding comorbid patients with complex lesions, short-term and 
+catheter introduced under local anaesthesia from a    long-term cardiovascular mortality following PCI has 
+peripheral artery and directed to the coronary artery declined over the decades.45,52
+orifice, through which a dilation catheter with a distensible Early complications of PCI include periprocedural 
+tip (balloon) is advanced across the stenotic or occluded myocardial infarction (with highly variable prevalence 
+arterial site and inflated to compress and crack      depending on definitions and ascertainment, from 
+atherosclerotic or thrombotic material, thereby dilating 2% to 18%),53 stroke (0·1–1%),54 major bleeding (1–5%),55 
+the lumen.42 Clinical outcomes of patients treated by PCI and acute kidney injury (4–7%),56 all of which can adversely 
+have progressively improved with technical and medical affect short-term and long-term survival. Midterm and 
+advances (figure 2).45 A first landmark was the introduction long-term stent-related adverse events include stent 
+of coronary stents that greatly reduced the risk of abrupt thrombosis (0·1% per year) and restenosis requiring 
+vessel closure.46 A major drawback, however, was stent revascularisation (0·5–1% per year),57 with little attenuation 
+thrombosis within the first month, complicating 1–3% of up to 10 years after PCI, even with new-generation drug-
+elective procedures and 7–15% of emergency procedures, eluting stents.58 Stent thrombosis is classified on the basis 
+despite the use of intravenous heparin and oral       of timing after implantation as acute (0–24 h), subacute (24 
+anticoagulation.47 A second landmark was replacing oral h–30 days), late (30 days–1 year), or very late (>1 year).59 
+
+anticoagulation with a platelet P2Y12-receptor inhibitor Acute and subacute events are generally related to technical 
+(each on a background of aspirin), with dual antiplatelet issues (inadequate stent expansion, residual dissection, 
+therapy (DAPT) substantially reducing stent thrombosis and tissue prolapse) or inadequate platelet inhibition, 
+rates and contributing to widespread adoption of PCI.48 A whereas late and very late events are generally 
+persistent major drawback of the procedure—although   related to discontinuation of antiplatelet therapy, 
+with lower rates after stenting than with plain balloon neoatherosclerosis, and delayed vessel healing.60 Although 
+angioplasty—was restenosis, necessitating repeated    new-generation drug-eluting stents and more potent 
+interventions.46,49 A third landmark was the introduction of platelet inhibitors have reduced the prevalence of stent 
+drug-eluting stents that limited the prevalence of    thrombosis, it still affects 1–2·5% of PCI patients.57,58 Stent-
+restenosis to single percent digits compared with bare- free PCI is a novel approach to avoid stent-related 
+metal stenting.50 Older drug-eluting stents (sirolimus or complications. Drug-coated balloons are reported to be 
+paclitaxel) have been largely superseded by second    non-inferior to drug-eluting stents for small vessel lesions61 
+
+                                                              1986
+                                                              Survival beneﬁt of intravenous thrombolysis vs placebo in acute myocardial infarction 
+                                                                 1988
+                                       1969                                                         2014
+                                                                 35-day vascular death reduced by aspirin in 
+                                       Familial hypercholesterolaemia                               Cardiovascular death reduced by ARNI
+                                                                 acute myocardial infarction
+                                       linked to early coronary heart disease                       in heart failure with LVEF <41% 
+                                                                         1994
+                                               1975                      Survival beneﬁt of long-term statin 2017
+            1950–60                            Reversal of               in coronary heart disease       50% non-adherence of patients
+  Framingham epidemiology   1961               cardiovascular disease    Coronary narrowing and events reduced with cardiovascular disease to
+               study        First CCU          mortality in the USA      by intensive risk factor control prescribed lifesaving medications
+                                                                          
+          1950          1960          1970          1980         1990          2000          2010         2020
+
+                      1960                       1980             1992                                       2020
+       Coronary risk factor awareness    Coronary thrombus MI prevention by                                  Beneﬁt of SGLT2 inhibition
+                               1967      retrieved from most long-term aspirin                               in heart failure and diabetes  
+           Cardiovascular disease risk score concept  patients with in chronic coronary     2007–09
+                                              early STEMI       syndrome                    Beneﬁt of new vs old P2Y12 inhibition post acute
+                                   1970                Survival beneﬁt of ACEi              coronary syndrome, but increased bleeding
+                      Experimental atherogenesis         in acute myocardial
+                                                                                           2007
+               slowed by diet and cholesterol lowering      infarction with
+                                                                                           Beneﬁt of cardiac resynchronisation therapy
+                                                              LVEF <41%
+                                                                                       2004
+                                                                   1993                Beneﬁt of intensive vs moderate lipid lowering
+                                         Beneﬁt of immediate angioplasty vs thrombolysis post acute coronary syndrome
+                                                     in acute myocardial infarction 2001
+                                                                       1996        Beneﬁt of DAPT vs SAPT post acute coronary syndrome
+                                                         Survival beneﬁt of β blocker in 2000
+                                                     chronic heart failure and LVEF <36% Beneﬁt of long-term ACEi in coronary heart disease and diabetes without
+                                                                                 heart failure
+
+Figure 2: Timeline of key advancements in medical therapy for coronary artery disease
+ACEi=angiotensin-converting enzyme inhibitor. ARNI=angiotensin receptor–neprilysin inhibitor. CCU=coronary care unit. DAPT=dual antiplatelet therapy. LVEF=left ventricular ejection fraction. 
+SAPT=single antiplatelet therapy. SGLT2=sodium-glucose cotransporter-2. STEMI=ST-segment elevation myocardial infarction.
+
+
+www.thelancet.com   Vol 401   May 13, 2023                                                                                1613
+        Review
+
+
+                              and are used for in-stent restenosis,62 whereas bioresorbable              major bleeding, vascular complications, major adverse 
+                              stent scaffolds have so far not shown incremental benefits                 cardiovascular events, and mortality compared with the 
+                              compared with drug-eluting stents.63                                       traditional femoral artery approach.64,65
+                                                                                                            Fractional flow reserve assessed by adenosine 
+                              Procedural aspects of PCI                                                  vasodilation or resting instantaneous wave-free ratio is 
+                              Radial artery access has become standard PCI practice, as                  recommended by current guidelines to assess the 
+                              trial findings and meta-analyses show lower rates of                       functional severity of intermediate epicardial artery 
+
+
+                       Participants            Patient             Sex of            Mean age of    Modality of          Follow-up     Primary outcome (revascularisation vs 
+                       (N [medical therapy;    population          participants (%)  participants   revascularisation (%) period       medical therapy)
+                       revascularisation])                                           (years)
+   AVERT (1999)          341 (164; 177)        Patients with       Female 15·9%       58·5          PCI 100%              1·5 years    Composite of cardiac death, myocardial 
+   PMID: 10395630                              coronary artery                                                                         infarction, stroke, resuscitation after 
+                                               disease and                                                                             cardiac arrest, repeat revascularisation, or 
+                                               negative stress test                                                                    angina requiring hospitalisation: PCI 37%, 
+                                                                                                                                       medical therapy 13%; p=0·048
+   MASS (1999)           214 (72; 142 [PCI 72, Patients with       Female 18%         57·0          PCI 51%, CABG 49%     5·0 years    Composite of cardiac death, acute 
+   PMID: 10567287      CABG 70])               coronary artery                                                                         myocardial infarction, or refractory angina 
+                                               disease                                                                                 requiring revascularisation: CABG 8·6%, 
+                                                                                                                                       PCI 40·3%, medical therapy 23·9%; 
+                                                                                                                                       p=0·001
+   TIME (2001)           305 (150; 155)        Patients older than Female 42·9%       80·0          PCI 71%, CABG 29%     6 months     Composite of death, myocardial infarction, 
+   PMID: 11583747                              75 years and                                                                            or hospitalisation for acute coronary 
+                                               chronic coronary                                                                        syndrome: invasive 19·0%, medical therapy 
+                                               syndrome                                                                                49·0%; p<0·0001
+   RITA-2 (2003)        1018 (514; 504)        Patients with       Female 18%         58·0          PCI 100%              7·0 years    Composite of death or myocardial 
+   PMID: 14522473                              coronary artery                                                                         infarction: PCI 14·5%, medical therapy 
+                                               disease and angina                                                                      12·3%; difference +2·2% (95% CI –2·0 to 
+                                                                                                                                       6·4; p=0·21)
+   COURAGE (2007)       2287 (1138; 1149)      Patients with       Female 15%         62·6          PCI 100%              4·6 years    Composite of death or myocardial 
+   PMID: 17387127                              coronary artery                                                                         infarction:  PCI 19·0%, medical therapy 
+                                               disease                                                                                 18·5%; HR 1·05 (95% CI 0·87 to 1·27; 
+                                                                                                                                       p=0·62)
+   COURAGE (2015)       1211 (598; 613)        Patients with       Female 8·5%        63·0          PCI 100%             11·9 years    Death: PCI 25%, medical therapy 24%; 
+   PMID: 26559572                              coronary artery                                                                         HR 1·03 (95% CI 0·83 to 1·21; p=0·76)
+                                               disease
+   BARI 2D (2009)      2368 (1192; 1172        Patients with       Female 29·6%       62·4          PCI 67%, CABG 33%     5·3 years    Death: Revascularisation 11·7%, medical 
+   PMID: 19502645      [PCI 798, CABG 378])    diabetes and                                                                            therapy 12·2%; p=0·97; PCI 10·8%, medical 
+                                               coronary artery                                                                         therapy 10·2%; p=0·48; CABG 13·6%, 
+                                               disease                                                                                 medical therapy 16·4%; p=0·33
+   MASS II (2010)        611 (203; 405 [PCI 205, Patients with     Female 31%         60·0          PCI 50%, CABG 50%    11·4 years    Composite of death, Q-wave myocardial 
+   PMID: 20733102      CABG 203])              multivessel                                                                             infarction, or angina requiring 
+                                               coronary artery                                                                         revascularisation: CABG 33·0%, PCI 42·4%, 
+                                               disease                                                                                 medical therapy 59·1%; p<0·001
+   STICH (2011)         1212 (602; 610)        Patients with       Female 12·2%       59·0          CABG 100%             4·6 years    Death: CABG 36%, medical therapy 41%; 
+   PMID: 21463150                              coronary artery                                                                         HR 0·86 (95% CI 0·72 to 1·04; p=0·12)
+                                               disease and left 
+                                               ventricular ejection 
+                                               fraction ≤35%
+   STICHES (2016)       1212 (602; 610)        Patients with       Female 12·2%       59·0          CABG 100%             9·8 years    Death: CABG 58·9%, medical therapy 
+   PMID: 27040723                              coronary artery                                                                         66·1%; HR 0·84 (95% CI 0·73 to 0·97; 
+                                               disease and left                                                                        p=0·02)
+                                               ventricular ejection 
+                                               fraction ≤35%
+   FAME-II (2018)       888 (441; 447)         Patients with       Female 21·2%       63·7          PCI 100%              5 years      Composite of death, myocardial infarction, 
+   PMID: 29785878                              functionally                                                                            or urgent revascularisation: PCI 13·9%, 
+                                               significant lesions                                                                     medical therapy 27·0%; HR 0·46 (95% CI 
+                                               (fractional flow                                                                        0·34 to 0·63; p<0·001)
+                                               reserve ≤0·80)
+
+   ORBITA (2018)         200 (95; 105)         Patients with       Female 26·5%       66·0          PCI 100%              6 weeks      Exercise time increment (s): PCI 28·4, 
+   PMID: 29103656                              1-vessel coronary                                                                       medical therapy 11·8; Difference 16·6 
+                                               artery disease                                                                          (95% CI –8·9 to 42·0; p=0·200)
+                                                                                                                                                 (Table 1 continues on next page)
+
+
+1614                                                                                                                                   www.thelancet.com   Vol 401   May 13, 2023
+                                                                                                                 Review
+
+
+                 Participants     Patient       Sex of       Mean age of Modality of   Follow-up Primary outcome (revascularisation vs 
+                 (N [medical therapy; population participants (%) participants revascularisation (%) period medical therapy)
+                 revascularisation])                         (years)
+   (Continued from previous page)
+   DECISION-CTO  834 (398; 417)   Patients with Female 21·8%  62·6      PCI 100%        4·0 years Composite of death, myocardial infarction, 
+   (2019)                         chronic total                                                  stroke, or repeat revascularisation:  
+   PMID: 30813758                 occlusion lesions                                              PCI 22·4%, medical therapy 22·3%; HR 1·03 
+                                                                                                 (95% CI 0·77 to 1·37; p=0·86)
+   ISCHEMIA (2020) 5179 (2591; 2588 [PCI Patients with Female 22·6% 64·0 PCI 74%, CABG 26% 3·2 years Composite of cardiovascular death, 
+   PMID: 32227755 1915, CABG 673]) moderate-severe                                               myocardial infarction, hospitalisation for 
+                                  ischaemia                                                      unstable angina, heart failure, or 
+                                                                                                 resuscitated cardiac arrest: invasive 16·4%, 
+                                                                                                 conservative 18·2%; difference –1·8% 
+                                                                                                 (95% CI –4·7 to 1·0)
+   ISCHEMIA-CKD   777 (389; 388)  Patients with Female 31·1%  62·7      PCI 85%, CABG 15% 2·2 years Composite of cardiovascular death or 
+   (2020)                         chronic kidney                                                 myocardial infarction:
+   PMID: 32227756                 disease and                                                    Invasive 36·4%, conservative 36·7%; 
+                                  moderate-severe                                                HR 1·01 (95% CI 0·79 to 1·29; p=0·95)
+                                  ischaemia
+   REVIVED (2022) 700 (353; 347)  Patients with Female 13%    69·3      PCI 100%        3·4 years Composite of death or hospitalisation for 
+   PMID: 36027563                 extensive coronary                                             heart failure: PCI 37·2%, medical therapy 
+                                  artery disease, left                                           38·0%; HR 0·99 (95% CI 0·78 to 1·27; 
+                                  ventricular ejection                                           p=0·96)
+                                  fraction ≤35%, and 
+                                  demonstrable 
+                                  myocardial viability
+
+  CABG=coronary artery bypass grafting. HR=hazard ratio. LVEF=left ventricular ejection fraction. PCI=percutaneous coronary intervention.
+
+  Table 1: Main outcomes of randomised trials comparing revascularisation and medical therapy in patients with coronary artery disease 
+
+stenoses.66,67 In the FAME trial, PCI guided by fractional risk related to comorbidities, complex coronary anatomy, 
+flow reserve significantly reduced the composite      or unstable haemodynamics.76 Many of these patients 
+endpoint of death, myocardial infarction, and repeat  have anatomical indications for CABG but a prohibitive 
+revascularisation in patients with multivessel coronary surgical risk.
+artery disease compared with PCI guided by angiography 
+only (13·2% vs 18·3%).68 Two subsequent trials showed Medical therapy
+PCI guided by instantaneous wave-free ratio to be non- In the 1970s and 1980s, atherogenesis in animals was 
+inferior to PCI guided by fractional flow reserve.69,70 PCI found to revert with changes in diet and serum 
+guided by intravascular ultrasound has been associated cholesterol.77 Progression of coronary narrowing in 
+with fewer ischaemic events than has PCI guided by    humans was found to slow down with  changes in diet, 
+angiography only.71 More recently, PCI guided by optical smoking cessation, exercise, and control of blood 
+coherence tomography was found to be non-inferior to  pressure, bodyweight, and lipid profile.77,78 Since then, 
+PCI guided by intravascular ultrasound.72 Despite the cardiovascular medical therapy has made great progress 
+benefits suggested by the data, haemodynamic and      (figure 2). In the 1990s, statins,79 aspirin,80 and 
+imaging guidance are seldom used in clinical practice.1 angiotensin-converting enzyme inhibitors81 were found 
+  With declining rates of ischaemic cardiovascular events to benefit patients with chronic coronary syndromes. 
+after PCI, growing concerns have emerged over midterm Cardiovascular events were reduced by fibrinolysis in 
+and long-term bleeding related to prolonged DAPT      patients with ST-elevation myocardial infarction,82 and by 
+therapy. Recent data show that short-term DAPT        higher intensity statins,83 or by DAPT in patients with 
+                                                                               84
+(1–3 months) followed by P2Y12-inhibitor monotherapy  acute coronary syndromes.  In patients with chronic 
+reduces major bleeding events compared with standard  heart failure, cardiovascular events were reduced by β 
+12-month DAPT, without significantly increasing       blockade,85 angiotensin receptor–neprilsyn inhibitors,86 
+ischaemic events.73,74                                and sodium-glucose cotransporter-2 inhibition 
+  PCI of chronic total occlusion is burdened by technical (figure 2).87 Yet a major limitation of medical therapy is 
+challenges, low procedural success, and high complication the suboptimal long-term compliance rate of 
+rates,75 but recent advances have improved patient    approximately 50% reported in multiple studies, 
+outcomes after chronic total occlusion-PCI undertaken by including revascularisation trials.88,89
+experienced operators.75 Complex high-risk indicated PCI Numerous randomised trials have compared the 
+is performed in patients with a clinical indication for efficacy and safety of revascularisation strategies against 
+coronary revascularisation who are at high procedural medical therapy alone in non-acute patients with 
+
+www.thelancet.com   Vol 401   May 13, 2023                                                                                1615
+        Review
+
+
+                              obstructive coronary artery disease not involving the left                 5179 patients with moderate or severe inducible ischaemia 
+                              main stem (table 1). The COURAGE trial randomly                            and preserved ejection fraction to either an initial invasive 
+                              assigned 2287 patients with coronary artery disease with                   strategy (74% by PCI, 26% by CABG) or to medical 
+                              preserved left ventricular ejection fraction to initial PCI or             therapy alone. At 3·2 years, the primary endpoint of 
+                              medical therapy alone and found no difference between                      cardiovascular death, myocardial infarction, stroke, or 
+                              groups at 4·6 years in the primary outcome of death and                    hospitalisation for unstable angina or resuscitated cardiac 
+                              myocardial infarction (19·0% vs 18·5%).90 The largest and                  arrest did not differ significantly between groups (16·4% 
+                              most recent ISCHEMIA trial randomly assigned                               and 18·2%, respectively).91 Spontaneous myocardial 
+
+                      ESC/EACTS 2018 guidelines                        ACC/AHA/SCAI 2021 guidelines                         JCS/JSCVS 2018 guidelines
+                      PMID: 30165437                                   PMID: 34882436                                       PMIDs: 35095031 and 30930428
+   Stable coronary artery disease
+   One-vessel         No proximal LAD stenosis: PCI* (COR: I; LOE: C); No proximal LAD stenosis: no revascularisation       No proximal LAD stenosis: PCI* (COR: I; LOE: C); 
+   coronary artery    proximal LAD stenosis: CABG or PCI (COR: I; LOE: A) (COR: III-no benefit; LOE: B-R); proximal LAD stenosis: proximal LAD stenosis: CABG* (COR: I; LOE: C)
+   disease                                                             coronary revascularisation uncertain to improve survival 
+                                                                       (COR: IIb; LOE: B-R)
+   Two-vessel         No proximal LAD stenosis: PCI* (COR: I; LOE: C); No proximal LAD stenosis: no revascularisation (COR: SYNTAX score 0–22: CABG (COR: I; LOE: A)
+   coronary artery    proximal LAD stenosis: CABG (COR: I; LOE: B); PCI III-no benefit; LOE: B-R); proximal LAD stenosis: coronary PCI (COR: I; LOE: B); SYNTAX score 23–32: CABG* 
+   disease            (COR: I; LOE: C)                                 revascularisation uncertain to improve survival (COR: IIb; (COR: I; LOE: A); SYNTAX score ≥33: CABG (COR: I; 
+                                                                       LOE: B-R)                                            LOE: A)
+   Three- or          SYNTAX score 0–22: CABG or PCI (COR: I; LOE: A); CABG and PCI (COR: IIb; LOE: B-R to improve survival SYNTAX score 0–22: CABG (COR: I; LOE: A)
+   multivessel        SYNTAX score >22: CABG* (COR: I; LOE: A)         and COR: IIa; LOE B-R to reduce the risk of cardiovascular PCI (COR: I; LOE: B); SYNTAX score 23–32: CABG* 
+   coronary artery                                                     events); SYNTAX score >33: CABG to improve survival  (COR: I; LOE: A); SYNTAX score ≥33: CABG (COR: I; 
+   disease                                                             (COR: IIa; LOE: B-R)                                 LOE: A)
+   Left main coronary SYNTAX score 0–22: CABG or PCI (COR: I; LOE: A); CABG (COR I; LOE: B-R); if PCI can provide equivalent Bifurcation lesions requiring <2 stents, and SYNTAX 
+   artery disease     SYNTAX score 23–32: CABG* (COR: I; LOE: A);      revascularisation: PCI acceptable (COR: IIa; LOE: B-NR) score 0–22: CABG (COR: I; LOE: A)
+                      SYNTAX score ≥33: CABG* (COR: I; LOE: A)                                                              PCI (COR: I; LOE: B); bifurcation lesions requiring 
+                                                                                                                            <2 stents, and SYNTAX score 23–32: CABG* (COR: I; LOE: 
+                                                                                                                            A); bifurcation lesions requiring 2 stents: CABG* (COR: I; 
+                                                                                                                            LOE: A); SYNTAX score ≥33: CABG (COR: I; LOE: A)
+   Diabetes
+   Two-vessel         NA                                                NA                                                  SYNTAX score 0–22: CABG* (COR: I; LOE: A);
+   coronary artery                                                                                                          SYNTAX score 23–32: CABG* (COR: I; LOE: A); SYNTAX 
+   disease:                                                                                                                 score ≥33: CABG (COR: I; LOE: A)
+   Three-vessel or    CABG (COR: I; LOE: A)                            Involvement of LAD and appropriate surgical candidate: SYNTAX score 0–22: CABG* (COR: I; LOE: A); SYNTAX 
+   multivessel                                                         CABG (COR: I; LOE: A); poor surgical candidate: PCI  score 23–32: CABG* (COR: I; LOE: A); SYNTAX 
+   coronary artery                                                     (COR: IIa; LOE: B-NR)                                score ≥33: CABG (COR: I; LOE: A)
+   disease
+   Left main stenosis NA                                               Low-to-intermediate complexity in remaining coronary NA
+                                                                       anatomy: PCI (COR: IIb; LOE: B-R)
+   Low ejection fraction
+   One-vessel or two- If complete revascularisation possible: consider  NA                                                  CABG (COR: I; LOE: B)
+   vessel coronary    PCI (COR: IIa; LOE: C) 
+   artery disease
+   Multivessel        If acceptable surgical risk: CABG (COR: I; LOE: B) Ejection fraction <35%: CABG (COR: I; LOE: B-R); ejection CABG (COR: I; LOE: B)
+   coronary artery                                                     fraction 35–50%: CABG (COR: IIa; LOE: B-NR)
+   disease
+   Acute coronary syndrome
+   Non-ST-elevation   Revascularisation according to same principles for Revascularisation by PCI or CABG (the mode of      The revascularisation strategy should be 
+                      stable coronary artery disease (COR: I; LOE: B)  revascularisation should be based on the acuity of the discussed within the Heart Team as needed
+                                                                       patient’s condition, the angiographic characteristics of (COR: I; LOE: C); failed PCI or technical difficulty, 
+                                                                       the culprit lesion, and the complexity of the patient’s persistent ischaemic attacks and haemodynamic 
+                                                                       anatomy and, when appropriate, include a Heart Team  instability refractory to medical treatment, or frequent 
+                                                                       discussion; COR: I; LOE: A); failed PCI and ongoing  ischemic attacks refractory to medical treatment 
+                                                                       ischaemia, haemodynamic compromise, or threatened    and a large risk area (severe stenosis in left main stem or 
+                                                                       occlusion of an artery with substantial myocardium   proximal LAD): CABG (COR: I; LOE: C)
+                                                                       at risk: CABG (COR: IIa; LOE: B-NR)
+
+  ACC=American College of Cardiology. AHA=American Heart Association. BMS=bare-metal stents. B-NR=B-non-randomised. B-R=B-randomised. CABG=coronary artery bypass graft. COR=class of 
+  recommendation (I, IIa, IIb, or III). DES=drug-eluting stents. ESC/EACTS=European Society of Cardiology and European Association for Cardio-Thoracic Surgery. JCS=Japanese Circulation Society. JSCVS=Japanese 
+  Society of Cardiovascular Surgeons. LAD=left anterior descending artery. LIMA=left internal mammary artery. LOE=level of evidence (A, B , or C). PCI=percutaneous coronary intervention. SCAI=Society of 
+  Cardiovascular Angiography & Interventions. SYNTAX=Synergy between Percutaneous Coronary Intervention with Taxus and Cardiac Surgery. *For categories with more than one revascularisation strategy 
+  recommended, we listed the one with the higher class of recommendation.
+
+  Table 2: Summary of current practice guidelines’ recommendations for coronary revascularisation 
+
+
+1616                                                                                                                                   www.thelancet.com   Vol 401   May 13, 2023
+                                                                                                                 Review
+
+
+infarction, hospitalisation for unstable angina, and   PCI                        CABG
+cardiac health deterioration were less frequent in the 
+revascularisation group.91,92 Follow-up extension to 7 years 
+showed no mortality difference between the groups 
+(12·7% initial invasive strategy vs 13·4% initial medical 
+therapy), but fewer cardiovascular deaths and more non-
+cardiovascular deaths in the invasive group.93 The BARI 
+2D trial94 in patients with coronary artery disease and 
+diabetes with preserved ejection fraction also found no 
+difference between initial revascularisation (PCI or 
+                                                       Early period (<1 year)
+CABG) or medical therapy alone at 5 years follow-up. By Sedation               vs General anaesthesia
+contrast, in the FAME-II trial the composite of death, Radial or femoral puncture vs Median sternotomy or CPB
+myocardial infarction, or urgent revascularisation was Overnight in-hospital stay vs 4–7 day in-hospital stay
+significantly reduced in the fractional flow reserve-guided Lower risk of periprocedural vs Higher risk of periprocedural
+PCI group (13·9%) versus medical therapy alone         complications              complications
+(27·0%).95                                             5–7 days’ recovery      vs 1–2 months’ recovery  
+  Comprehensive meta-analyses of trials comparing      Late period (>1 year)
+                                                       Higher risk of adverse cardiac events* vs Lower risk of adverse cardiac events* 
+revascularisation (CABG, PCI, or both) to medical therapy 
+alone in patients with non-acute coronary artery disease     Early advantages           Late advantages
+and without left main disease or severely reduced left 
+ventricular ejection fraction have found no significant 
+difference in overall survival between strategies,96,97 but Key factors  to be considered to guide the choice between PCI and CABG
+reductions in cardiac deaths97 and spontaneous myocardial Coronary  Heart team   Patient     Surgical risk
+                                                       anatomy                   preference
+infarction, at the consequence of more frequent procedural 
+myocardial infarctions with revascularisation.97
+  Two trials, STICH98,99 and REVIVED BCIS2,100 have 
+compared revascularisation to medical therapy alone in 
+patients with non-acute multivessel coronary artery disease 
+and reduced left ventricular ejection fraction (≤35%). The Clinical Comorbidities or Life expectancy Local expertise
+STITCH trial found no difference in all-cause deaths at presentation risk factor control
+4·6 years, but fewer deaths with CABG after 9·8 years.98,99 
+In REVIVED BCIS2, the primary endpoint of all-cause 
+death or hospitalisation for heart failure did not differ 
+between PCI and medical therapy.100
+  An individual patient data analysis of 2523 patients with 
+and without severely reduced ejection fraction derived Figure 3: Comparison of key aspects of surgical and percutaneous coronary 
+                                                      revascularisation
+from four trials comparing CABG with medical therapy  Parts of the figure were drawn with pictures from Flaticon.com (https://flaticon.
+alone found significantly lower 10-year mortality with com) and Servier Medical Art (https://smart.servier.com/). Servier Medical Art by 
+CABG (45% vs 52%), with the CABG survival benefit     Servier is licensed under a CC BY 3.0 licence. CABG=coronary artery bypass 
+                                                  101 grafting. CPB=cardiopulmonary bypass. PCI=percutaneous coronary 
+becoming significant after the fourth postoperative year.  intervention. *In particular, myocardial infarction and the need for repeat 
+Chronic total occlusion-PCI compared with medical     revascularisation.
+therapy alone has been found to improve angina and 
+physical performance, but whether it reduces hard     PCI versus CABG
+clinical outcomes remains unestablished.75 The available PCI and CABG are mechanistically and clinically very 
+evidence on complex high-risk indicated-PCI compared  different interventions figure(  3). PCI treats only the flow-
+with medical therapy alone is limited to a few registry limiting stenosis and increases flow downstream; its 
+studies.76                                            technical complexity depends on the lesion characteristics 
+  In summary, medical therapy should be used in all   (location, calcification, and length).102 Surgery, given its 
+patients with coronary artery disease, with efforts focused more distal anastomoses, restores distal flow while 
+on long-term compliance. Some patients might          protecting against potential progression of proximal 
+experience long-term reduction of cardiovascular events plaques that were not flow-limiting at the time of 
+and anginal symptoms with revascularisation on top of intervention, and its technical complexity is independent 
+medical therapy and lifestyle changes. For other patients, from lesion characteristics. Periprocedural deaths are very 
+revascularisation might not be necessary, or the      low for both interventions, but non-fatal procedural 
+periprocedural risks might outweigh the potential     complications and rehospitalisation rates are higher, and 
+long-term revascularisation benefits, and medical     recovery periods longer, with surgery. In the years after the 
+therapy alone could be the treatment of choice (table 2). procedure, however, PCI requires more frequent 
+
+www.thelancet.com   Vol 401   May 13, 2023                                                                                1617
+      Review
+
+
+                      reinterventions than does surgery (mostly for disease trial, but not in the NOBLE trial. An individual patient-data 
+                      progression in untreated areas),103 with a higher risk of analysis of four PCI versus CABG trials in patients with left 
+                      acute coronary events. In clinical practice, most patients main coronary disease found 5-year deaths were similar for 
+                      have clinical or anatomical characteristics (such as older PCI and CABG (11·2% vs 10·2%).113 Spontaneous 
+                      age, diabetes, comorbidities, complex coronary anatomy, myocardial infarction was more common with PCI (6·2% 
+                      or frailty) or strong preferences that make one or the other vs 2·6%), whereas there was no difference in the overall 
+                      intervention more indicated. Published comparative trials risk of stroke (2·7% vs 3·1%), although in the first year after 
+                      refer to patients where equipoise between PCI and CABG randomisation the risk of stroke was lower with PCI.113
+                      existed for both the treating physicians and the patient. In Prespecified subanalyses of trials have reported overall 
+                      the early 2000s, several RCTs compared the relative effects similar improvement in patients’ quality of life after PCI 
+                      of PCI and CABG. These trials are not representative of and CABG, although the PCI group showed faster 
+                      current practice and are mainly of historical interest. recovery and less physical limitations in the first months 
+                      Table 3 shows the trials that inform current decision- and the surgery group showed better symptom relief at 
+                      making.                                               late follow-up.114,115
+                        The SYNTAX trial in patients with multivessel disease or No RCT has directly compared PCI and CABG in 
+                      left main disease104,105 found the composite outcome  patients with reduced left ventricular ejection fraction. A 
+                      including death, myocardial infarction, stroke, or repeat network meta-analysis of 23 studies involving 
+                      revascularisation occurred significantly more frequently in 23 633 patients (including four small RCTs) found that 
+                      the PCI group than the CABG group. No significant     PCI and medical therapy were associated with more 
+                      difference between groups was found in patients with low deaths than was CABG, but treatment allocation bias 
+                      coronary artery disease complexity (expressed by a    might have favoured surgery.116 The ongoing STICH3C 
+                      SYNTAX anatomical disease score <23), although the trial trial (NCT05427370) will provide new information.
+                      was underpowered for subgroup analysis on the basis of Overall, the evidence suggests a higher rate of 
+                      SYNTAX score strata. At 10 years, deaths between the two periprocedural complications with CABG versus higher 
+                      groups did not differ (28% for PCI vs 24% for CABG), but rates of myocardial infarction and re-revascularisation 
+                      at 11·2 years, deaths were significantly higher with PCI.106 during follow-up with PCI. Current guidelines recommend 
+                      The anatomical extent of coronary artery disease was a CABG for patients with complex coronary artery disease, 
+                      significant treatment effect modifier, with patients with especially with diabetes or reduced ejection fraction, 
+                      triple-vessel, but not those with left main, disease having whereas PCI is preferred for patients with less extensive or 
+                      better survival with CABG.                            less complex coronary artery disease and for those at high 
+                        The BEST trial107 compared new-generation everolimus- surgical risk (table 2).66,67 All guidelines, however, specify 
+                      eluting stents to CABG in patients with multivessel but that patient preference should be key in informing 
+                      not left main coronary artery disease and found the   treatment decisions.
+                      composite of death, myocardial infarction, and repeat 
+                      revascularisation was significantly higher in the PCI Coronary revascularisation for acute coronary 
+                      group at 4·6 years, but found no difference at 11·8 years syndromes
+                      of follow-up, although spontaneous myocardial infarction The aim of revascularisation in acute coronary syndromes 
+                      and revascularisations were significantly more common is to salvage ischaemic myocardium and prevent adverse 
+                      with PCI than with CABG.108                           events, including short-term death, while revascularisation 
+                        In an individual patient data analysis of 11 PCI versus in chronic coronary syndromes has the scope of 
+                      CABG trials including more than 11 000 patients, there improving symptoms and reducing the risk of long-term 
+                      were fewer deaths with CABG (11·2% vs 9·2%), but eight cardiac events, particularly myocardial infarctions.
+                      trials used old PCI technology (bare-metal stenting and In patients hospitalised with ST-segment-elevation 
+                      first-generation drug-eluting stents in four trials each).109 In myocardial infarction, early PCI of the culprit lesion 
+                      the FAME-III trial,110 despite the use of fractional flow (primary PCI) reduces the rates of death, myocardial 
+                      reserve guidance and current generations stents in the PCI infarction, stroke, and major bleeding compared with 
+                      group, the incidence of the primary composite outcome fibrinolysis,44 and is a class I recommendation in the 
+                      including death, myocardial infarction, stroke, or repeat current American, European, and Japanese guidelines 
+                      revascularisation was significantly higher in the PCI group (fibrinolytic therapy is recommended when primary PCI 
+                      than the CABG group (10·6% vs 6·9%). The EXCEL111 and is not available).66,67,117–119 In RCTs, complete revas­
+                      NOBLE112 trials found seemingly different results when cularisation, even as a staged procedure, reduced cardiac 
+                      comparing PCI with CABG in patients with left main    events compared with culprit lesion-only PCI.120–122
+                      coronary disease, but this contradiction in results was due In patients with non-ST-segment-elevation acute 
+                      to differences in the studies’ primary outcome definitions; coronary syndromes, early revascularisation is recom­
+                      myocardial infarction and re-revascularisation during mended in patients at high risk, and PCI is often the 
+                      follow-up were more frequent in the PCI group in both chosen modality; however, in patients with complex 
+                      trials, while mortality was lower with CABG in the EXCEL coronary anatomy, CABG should be considered.66,67,117,123
+
+1618                                                                                             www.thelancet.com   Vol 401   May 13, 2023
+                                                                                                                                                             Review
+
+
+                           Participants          Patient population    Sex of participants  Mean age of      Follow-up       Primary outcome (PCI vs CABG)
+                           (N [PCI; CABG])                             (%)                  participants     period
+                                                                                            (years)
+   ARTS (2001)              1205 (600; 605)      Patients with         Female 23·5%         61·0               1 years       Composite of death, myocardial infarction, repeat 
+   PMID: 11297702                                multivessel disease                                                         revascularisation, stroke, or  transient ischaemic 
+                                                                                                                             attack: PCI 26·2%, CABG 12·2%; log-rank p<0·001
+   AWESOME (2001)            454 (222; 232)      Patients with         Not reported         67·0               4·8 years     Death: PCI 22·0%, CABG 27·0%; p>0·46  
+   PMID: 11451264                                medically refractory 
+                                                 myocardial ischaemia
+   ERACI-II (2001)           450 (225; 225)      Patients with         Female 20·6%         61·95             30 days        Composite of death, Q-wave myocardial infarction, 
+   PMID: 11153772                                coronary artery                                                             stroke, or repeat revascularisation:  PCI 1·8%, 
+                                                 disease                                                                     CABG 11·4%; p=0·0002 
+   ERACI-II (2005)           450 (225; 225)      Patients with         Female 20·6%         61·95              5 years       Death: PCI 7·1%, CABG 11·5%; p=0·182
+   PMID: 16098419                                coronary artery 
+                                                 disease
+   Stent or Surgery (2002)   988 (488; 500)      Patients with         Female 21·9%         61·5               2 years       Repeat revascularisation: PCI 21%, CABG 6%; 
+   PMID: 12383664                                multivessel disease                                                         HR 3·85 (95% Cl 2·56 to 5·79; p<0·0001)
+   OCTOstent (2005)          280 (138; 142       Patients with         Female 31·5%         61·5               1 year        Composite of death, myocardial infarction, stroke, 
+   PMID: 25696506          off-pump CABG)        coronary artery                                                             or repeat revascularisation: PCI 14·5%, CABG 8·5%; 
+                                                 disease                                                                     difference –6·0% (95% CI –13·5 to 1·5)
+   CARDia (2010)             510 (256; 254)      Patients with         Female 25·9%         64·0               1 year        Composite of death, myocardial infarction, or stroke: 
+   PMID: 20117456                                multivessel or                                                              PCI 13%, CABG 10·5%; HR 1·25 (95% CI 0·75 to 2·09; 
+                                                 complex 1-vessel                                                            p=0·39)
+                                                 coronary artery 
+                                                 disease and diabetes 
+   PRECOMBAT (2011)          600 (300; 300)      Patients with left    Female:23·5%         62·3               2 years       Composite of death, myocardial infarction, stroke, 
+   PMID: 21463149                                main disease                                                                or ischaemia-driven TVR: PCI 12·2%, CABG 8·1%; 
+                                                                                                                             HR 1·50 (95% CI 0·90 to 2·52; p=0·12)
+   PRECOMBAT (2020)          600 (300; 300)      Patients with left    Female 23·5%         62·3              11·3 years     Composite of death, myocardial infarction, stroke, 
+   PMID: 32223567                                main disease                                                                or ischaemia-driven TVR: PCI 29·8%, CABG 24·7%; 
+                                                                                                                             HR 1·25 (95% CI 0·93 to 1·69)
+   FREEDOM (2012)           1900 (953; 947)      Patients with diabetes Female 28·7%        63·1               3·8 years     Composite of death, myocardial infarction, or stroke: 
+   PMID: 23121323                                and multivessel                                                             PCI 26·6%, CABG 18·7%; p=0·005 
+                                                 disease
+   FREEDOM (2019)            943 (478; 465)      Patients with diabetes Female 31·0%        63·2               7·5 years     Death: PCI 23·7%, CABG 18·7%; HR 1·32 
+   PMID: 30428398                                and multivessel                                                             (95% CI 0·97 to 1·78; p=0·076)
+                                                 disease
+   VA CARDS (2013)           198 (101/97)        Patients with diabetes Female 1·1%         62·5               2 years       Composite of death or myocardial infarction:
+   PMID: 23428214                                and multivessel or                                                          PCI 31%, CABG 53%; HR 0·89 (95% CI 0·47 to 1·71)
+                                                 isolated proximal LAD 
+                                                 disease
+   SYNTAX (2013)            1800 (903; 897)      Patients with 3-vessel Female 22·4%        65·1               5 years       Composite of death, myocardial infarction, stroke, or 
+   PMID: 23439102                                or left main disease                                                        repeat revascularisation: PCI 32·1%, CABG 28·6%;
+                                                                                                                             HR 1·13 (95% CI 0·83 to 1·53; p=0·43)
+   SYNTAXES (2019)          1689 (841; 848)      Patients with 3-vessel Female 21·9%        65·1              11·2 years     Death: PCI 27·0%, CABG 24·0%; HR 1·17 
+   PMID: 31488373                                or left main disease                                                        (95% CI 0·97 to 1·41; p=0·092)
+   BEST (2015)               880 (438; 442)      Patients with         Female 28·6%         64·6               4·6 years     Composite of death, myocardial infarction, or TVR:  
+   PMID: 25774645                                multivessel disease                                                         PCI 15·3%, CABG: 10·6%; HR 1·47 
+                                                 and Euroscore <8                                                            (95% CI 1·01 to 2·13; p=0·04)
+   BEST (2022)               880 (438; 442)      Patients with         Female 28·6%         64·6              11·8 years     Composite of death, myocardial infarction, or TVR:  
+   PMID: 36121700                                multivessel disease                                                         PCI 34·5%, CABG 30·3%; HR 1·18 
+                                                 and Euroscore <8                                                            (95% CI 0·88 to 1·56; p=0·26)
+   EXCEL (2019)             1905 (948; 957)      Patients with left    Female 23·1%         66·0               5 years       Composite of death, myocardial infarction, or stroke:  
+   PMID: 31562798                                main disease and                                                            PCI 22·0%, CABG 19·2%; event rate difference 2·8% 
+                                                 SYNTAX score ≤32                                                            (95% CI –0·9 to 6·5; p=0·13)
+   NOBLE (2020)             1201 (598; 603)      Patients with left    Female 22%           66·2               4·9 years     Composite of death, myocardial infarction, stroke, 
+   PMID: 31879028                                main disease                                                                or repeat revascularisation: PCI 28%, CABG 19%; 
+                                                                                                                             HR 1·58 (95% CI 1·24 to 2·01; p=0·0002)
+   FAME-III (2022)          1500 (757; 743)      Patients with         Female 17·7%         65·2               1 year        Composite of death, myocardial infarction, stroke, 
+   PMID: 34735046                                3-vessel disease                                                            or repeat revascularisation: PCI 10·6%, CABG 6·9%; 
+                                                                                                                             HR 1·5 (95% CI 1·1 to 2·2; p=0·35 for non-inferiority)
+
+  CABG=coronary artery bypass grafting. HR=hazard ratio. LVEF=left ventricular ejection fraction. PCI=percutaneous coronary intervention. SYNTAX=Synergy between PCI with Taxus and Cardiac Surgery. 
+  TVR=target vessel revascularisation.
+
+  Table 3: Main outcomes of randomised trials comparing PCI and CABG
+
+
+www.thelancet.com   Vol 401   May 13, 2023                                                                                                                                 1619
+      Review
+
+
+                        Information on the relative effectiveness of PCI and revascularisation trials, women accounted for 20–30% of 
+                      CABG in patients with acute coronary syndromes is     the enrolled population (tables 1 and 3). On the basis of 
+                      scarce, but in the pooled analysis of left main disease available data, the benefits of several coronary artery 
+                      trials, clinical presentation was a significant treatment disease therapies seem to be extendable to women, including 
+                      effect modifier and patients with acute coronary      fibrinolysis,82 antiplatelet regimens,80,125 renin-angiotensin-
+                      syndromes had lower mortality with PCI, whereas patients aldosterone inhibitors,81,125 statins,79,124,125 β blockers85 and 
+                      with chronic coronary artery disease had better outcomes angiotensin receptor–neprilysin inhibitor,86 SGLT2-
+                      with surgery.113                                      inhibitors,87 radial arterial access,65 primary PCI,131 PCI in 
+                        Antiplatelet therapy after PCI differs in patients with acute coronary syndromes,132 revascularisation for 
+                      acute coronary syndromes or chronic coronary artery   ischaemic  cardio­myopathy,98 drug-eluting stents,133 and 
+                      disease: ticagrelor or prasugrel for 3–12 months are  radial arteries for CABG.134,135
+                      recommended in patients with acute coronary syndromes, In most revascularisation trials, patient age at baseline 
+                      whereas clopidogrel for 1–6 months is recommended in  was approximately 65 years (tables 1 and 3). Most effects of 
+                      patients with chronic coronary artery disease. Similarly, revascularisation and medical therapies also seem 
+                      after CABG, aspirin alone is recommended long term for applicable to older adults, provided age adjustments are 
+                      chronic coronary artery disease, whereas 12 months of made for drug doses, especially for prasugrel, fibrinolysis, 
+                      DAPT is recommended for acute coronary syndromes.66,67,117 certain direct oral anticoagulants, and enoxaparin.129 
+                                                                            History of stroke and a high-bleeding risk profile influence 
+                      Coronary revascularisation in women and older         the choice and duration of antiplatelet therapy.129 Although 
+                      adults                                                procedural complications increase exponentially with age, 
+                      Women with coronary artery disease are at higher risk so do the expected benefits of treatment.129 The SENIOR-
+                      than men given their smaller body size, average 4-year to RITA trial (NCT03052036) is comparing revascularisation 
+                      10-year older patient age, more frequent comorbidities (PCI or CABG) versus medical therapy alone in patients 
+                      (diabetes, hyper­tension, heart and renal failure), more aged 75 years or older with acute non-ST elevation 
+                      atypical symptoms leading to delayed diagnoses,124–126 myocardial infarction.
+                      lower adherence to medications,127 and lower 
+                      socioeconomic status128 than men.124,125 Medical attention Coronary revascularisation in low-income and 
+                      is on average delayed in women, recommended drugs     middle-income countries
+                      and interventions underused, and revascularisation    Approximately 84% (ie, 6·6 billion people) of the world’s 
+                      more often incomplete with lesser use of arterial grafts current population live in low-income or middle-income 
+                      when CABG is undertaken.124,125 Women have higher     countries (LMICs).136 Since 1990, age-standardised137 
+                      rates of adverse events, including bleeding, renal    annual mortality from cardiovascular diseases has 
+                      dysfunction, vascular or device complications, and early decreased by 43% (from 283 to 160 cases per 
+                      and late mortality after coronary revascularisation, even 100 000 people) in high-income countries (HICs), largely 
+                      after adjustment for baseline characteristics.124,125 thanks to improved lifestyles, diets, medical therapy, and 
+                        The prevalence of coronary artery disease constantly access to health care, but mortality has decreased by only 
+                      increases with age, and up to 80% of older individuals are 13% (from 381 to 332 per 100 000 people) in LMICs.136,137 
+                      estimated to have asymptomatic coronary artery disease.128 The PURE cohort study,138 evaluating 156 424 people from 
+                      Advanced age is a risk-enhancer among patients with   the general population of 17 countries between 2003 and 
+                      coronary artery disease, given atypical disease 2009, found substantially higher rates of cardiovascular 
+                      presentation and delayed diagnosis, more extensive    disease and death in LMICs versus HICs, despite a lower 
+                      coronary artery disease compared with younger patients, risk factor burden in LMICs,139 suggesting important 
+                      more frequent frailty and comorbidity (particularly renal differences across countries in terms of access to 
+                      failure), polypharmacy and poor compliance with medical recommended medical therapies and appropriate 
+                      therapy with cognitive impairment,­  social dependency, revascularisation.
+                      and shorter life expectancy­  driving second-line care Compared with HICs, patients with coronary artery 
+                      strategies.129 The ISCHEMIA-CKD trial randomly        disease in LMICs are generally younger and have fewer 
+                      assigned patients with advanced chronic kidney disease risk factors (although the latter might be due to less 
+                      and moderate or severe inducible myocardial ischaemia efficient screening and reporting),140 with significantly 
+                      to an initial invasive strategy or to medical therapy higher fatality rates related to coronary artery disease.139,141,142 
+                      alone.130 After 2·2 years, the composite primary outcome Coronary artery disease is a more frequent cause of heart 
+                      of death or myocardial infarction did not differ in the two failure143 and prevention, and revasculari­sation procedures 
+                      groups, but the risks of stroke and of death or dialysis are substantially underused in LMICs compared with 
+                      were significantly increased with revascularisation.  HICs.141,142 The total number of PCI per million people is 
+                        Treatment effects for women and older adults are    positively correlated with gross national income per 
+                      derived from underpowered subgroup analyses. In most  capita (Kimura T, Kyoto University, Kyoto, Japan; 
+
+1620                                                                                             www.thelancet.com   Vol 401   May 13, 2023
+                                                                                                                                                             Review
+
+
+                         Sample (n)       Leading institution                  Interventions                                Primary aim
+   CABG vs PCI
+   PROVERB                 1040           Assistance Publique–Hôpitaux de Paris, Intervention: CABG with total arterial     Assess whether total arterial CABG vs PCI reduces 
+   (NCT05532631)                          France                               revascularisation; comparator: PCI           MACCE at 3-year follow-up
+   STICH3C                   754          Sunnybrook Health Sciences Centre,   Intervention: CABG; comparator: PCI          Assess whether CABG vs PCI in patients with 
+   (NCT05427370)                          University of Toronto, Canada                                                     multivessel or left main coronary artery disease and 
+                                                                                                                            reduced LVEF reduces MACCE at 5-year follow-up
+   MILESTONE               1000           American Heart of Poland, Poland     Intervention: CABG; comparator: PCI          Assess whether CABG vs PCI in patients with 
+   (NCT01311323)                                                                                                            multivessel or left main disease and NSTE-ACS reduces 
+                                                                                                                            MACCE at 1-year follow-up
+   Coronary Artery Bypass   1550          Danish Study Group, Denmark          Intervention: CABG; comparator: PCI          Assess whether CABG vs PCI in high-risk patients with 
+   Grafts or Percutaneous                                                                                                   severe coronary artery disease reduces MACCE at 5-year 
+   Coronary Intervention                                                                                                    follow-up
+   for Revascularization in 
+   Moderate- to High- 
+   Risk Patients With 
+   Ischemic Heart Disease 
+   and Reduced Left 
+   Ventricular Ejection 
+   Fraction 
+   (NCT05534698)
+   Minimally invasive surgery, hybrid revascularisation
+   Hybrid                  1048           Copenhagen University Hospital,      Intervention: hybrid coronary revascularisation Assess whether hybrid coronary revascularisation vs 
+   Revascularization                      Denmark                              (MID-CAB using LIMA-LAD with PCI to ≥1 non-  CABG reduces a composite outcome of MACCE or 
+   Versus Coronary Artery                                                      LAD lesion); comparator: CABG                unplanned hospitalisation
+   Bypass Grafting 
+   (NCT05504031)
+   EDGE (NCT05121610)      2864           Beijing Anzhen Hospital, China       Intervention: CABG; Comparator 1: PCI;       Assess whether CABG vs PCI vs hybrid coronary 
+                                                                               comparator 2: hybrid coronary revascularisation revascularisation in multivessel coronary disease 
+                                                                                                                            (SYNTAX score >22) reduces MACCE at 1-year follow-up
+   HCR-EAST                 200           Shanghai East Hospital, China        Intervention: one-stop hybrid coronary       Assess whether hybrid coronary revascularisation vs PCI 
+   (NCT04811586)                                                               revascularisation (off-pump MID-CAB using    in multivessel or left main coronary artery disease 
+                                                                               LIMA-LAD with PCI to 1 or more non-LAD       reduces MACCE at 2-year follow-up
+                                                                               lesions); comparator: PCI
+   Efficacy and Safety of   200           Peking University Third Hospital, China Intervention: MICS-CABG; comparator:      Assess whether MICS-CABG vs off-pump CABG 
+   Minimal Invasive                                                            off-pump CABG                                improves physical quality of life and recovery (physical 
+   Coronary Surgery in                                                                                                      component score of SF-36) at 30-day follow-up
+   Patients With Complex 
+   Coronary Artery 
+   Lesions 
+   (NCT04795193)
+   MIST (NCT03447938)        176          University of Ottawa Heart Institute, Intervention: MICS-CABG; comparator: CABG   Assess whether MICS-CABG vs CABG improves physical 
+                                          Canada                                                                            quality of life and recovery (physical component score 
+                                                                                                                            of SF-36) at 30-day follow-up.
+   CABG—conduits
+   ROMA                    4300           Weill Cornell-New York Presbyterian, Intervention: CABG with multiple arterial grafts; Assess whether multiple arterial grafting reduces 
+   (NCT03217006)                          New York, USA                        comparator: CABG with single arterial graft  postoperative MACCE in comparison with single arterial 
+                                                                                                                            grafting
+   ROMA: Women              1310          Weill Cornell-New York Presbyterian, Intervention: CABG with multiple arterial grafts; Assess whether multiple arterial grafting reduces 
+   (NCT04124120)                          New York, USA                        comparator: CABG with single arterial graft  postoperative MACCE in comparison with single arterial 
+                                                                                                                            grafting in women
+   CABG—medical therapy
+   TOP-CABG                2300           Fuwai Hospital, China                Intervention: de-escalated DAPT (ticagrelor  Assess whether de-escalated DAPT vs DAPT for 
+   (NCT05380063)                                                               90 mg BID and 100 mg aspirin daily) for      12 months following elective CABG reduces SVG total 
+                                                                               3 months, then aspirin 100 mg daily + placebo) occlusion (on cardiac CTA or coronary angiography) or 
+                                                                               for 9 months; comparator: DAPT (ticagrelor   bleeding events at 1-year follow-up
+                                                                               90 mg BID and 100 mg aspirin daily) for 
+                                                                               12 months
+   BEEFBURGER               200           Royal University Hospital, University of Intervention: de-prescription of β blockers (half- Assess whether β blockers deprescription vs 
+   (NCT04788186)                          Saskatchewan, Canada                 dose for 3 days, then quarter-dose for 3 days, continuation reduces MACCE, heart failure 
+                                                                               then discontinuation); comparator: continued hospitalisations, cardiac arrhythmia, syncope or 
+                                                                               β blockers per usual clinical care           permanent pacemaker, or recurrent myocardial 
+                                                                                                                            ischemia at 3-year follow-up following uncomplicated 
+                                                                                                                            CABG in patients with LVEF ≥45% and no atrial 
+                                                                                                                            fibrillation or flutter
+                                                                                                                                                (Table 4 continues on next page)
+
+
+www.thelancet.com   Vol 401   May 13, 2023                                                                                                                                 1621
+        Review
+
+
+                         Sample (n)       Leading institution                  Interventions                                Primary aim
+   (Continued from previous page)
+
+   PACES                    3200          Icahn School of Medicine at Mount    Intervention: SAPT (aspirin or P2Y12 inhibitor); Assess whether OAC plus SAPT vs SAPT reduces a 
+   (NCT04045665)                          Sinai, USA                           comparator: OAC and SAPT (vitamin K          composite of MACCE or systemic arterial or venous 
+                                                                               antagonist [INR 2–3] or DOAC and aspirin or  thromboembolism at 180 days after randomisation. 
+                                                                               P2Y12 inhibitor)                             Assess whether OAC plus SAPT vs SAPT reduces BARC 
+                                                                                                                            type 3 or 5 bleeding at 90 days after randomisation
+   NEWTON-CABG               766          Unity Health Toronto, University of  Intervention: evolocumab; comparator: placebo Assess whether evolocumab compared with placebo 
+   (NCT03900026)                          Toronto, Canada                                                                   reduces SVG disease rate (proportion of vein grafts with 
+                                                                                                                            significant stenosis [≥50%] or total occlusion on cardiac 
+                                                                                                                            CTA or coronary angiography) at 2-year follow-up
+   TACSI (NCT03560310)      2200          Vastra Gotaland Region, Uppsala      Intervention: DAPT (ticagrelor 90 mg twice a day Assess whether DAPT vs SAPT reduces MACCE at 1-year 
+                                          University, Sweden                   and 75–100 mg aspirin daily); comparator:    follow-up after CABG in patients with acute coronary 
+                                                                               aspirin 75–160 mg daily.                     syndrome
+   PCI vs Sham 
+   ORBITA-2                  400          Imperial College London, UK          Intervention: PCI; comparator: sham procedure Assess whether PCI vs sham procedure in patients with 
+   (NCT03742050)                                                                                                            symptoms of stable angina without background anti-
+                                                                                                                            anginal therapy reduces symptoms of angina at 
+                                                                                                                            3-month follow-up.
+   DANANGINA                 450          Herlev and Gentofte Hospital,        Intervention: PCI; comparator: sham procedure Assess whether PCI vs sham procedure in patients with 
+   (NCT04496648)                          Denmark                                                                           symptoms of stable angina reduces symptoms of 
+                                                                                                                            angina or myocardial infarction at 3-month follow-up
+   PCI—drug-coated balloon vs drug-eluting stents in native coronary artery disease
+   Long-term efficacy of     400          Shanghai Songjiang Central Hospital, Intervention: PCI with drug-coated balloon;  Assess whether PCI with drug-coated balloon compared 
+   drug-coated balloon                    China                                comparator: PCI with sirolimus-eluting sten  with PCI with drug-eluting stent reduces target lesion 
+   versus drug-eluting                                                                                                      failure
+   stent in large de novo 
+   coronary lesions 
+   (NCT05101005)
+   DEBATE                    546          North Karelia Central Hospital, Finland Intervention: PCI with drug-coated balloon; Assess whether PCI with drug-coated balloon compared 
+   (NCT04814212)                                                               comparator: PCI with drug-eluting stent      with PCI with drug-eluting stent reduces net clinical 
+                                                                                                                            benefit (a composite of MACE and bleeding)
+   TRANSFORM II             1325          Clinica Polispecialistica San Carlo, Italy Intervention: PCI with drug-coated balloon; Assess whether PCI with drug-coated balloon compared 
+   (NCT04893291)                                                               comparator: PCI with everolimus-eluting stent with PCI with everolimus-eluting stent reduces target 
+                                                                                                                            lesion failure
+   PCI—haemodynamic support strategies
+   CHIP-BCIS3                250          Guy’s and St Thomas’ NHS Foundation  Intervention: percutaneous temporary LVAD;   Assess whether percutaneous temporary LVAD vs usual 
+   (NCT05003817)                          Trust, UK                            comparator: standard of care                 care in high-risk PCI reduces a composite outcome of 
+                                                                                                                            MACCE, periprocedural myocardial infarction, or 
+                                                                                                                            cardiovascular hospitalisation at 1-year to 4-year 
+                                                                                                                            follow-up
+   PIONEER Trial             306          Xijing Hospital, China               Intervention: VA-ECMO with IABP; comparator: Assess whether haemodynamic support combining 
+   (NCT04045873)                                                               IABP                                         VA-ECMO with IABP compared with IABP support alone 
+                                                                                                                            in patients undergoing elective high-risk PCI reduces 
+                                                                                                                            MACCE at 30-day follow-up
+   PCI—antithrombotic, PCSK9 inhibition and gastroprotective strategies
+   STOPDAPT-3              6000           Kyoto University, Graduate School of Intervention: reduced dose prasugrel SAPT;   Assess whether reduced dose prasugrel SAPT compared 
+   (NCT04609111)                          Medicine, Japan                      comparator: DAPT (reduced dose prasugrel and with DAPT reduces bleeding events and is non-inferior 
+                                                                               aspirin)                                     for cardiovascular events after PCI in acute coronary 
+                                                                                                                            syndrome patients with high bleeding risk at 30-day 
+                                                                                                                            follow-up
+   NEOMINDSET              3400           Hospital Israelita Albert Einstein, Brazil Intervention: prasugrel or ticagrelor SAPT; Assess whether prasugrel or ticagrelor SAPT compared 
+   (NCT04360720)                                                               comparator: DAPT (prasugrel or ticagrelor and with DAPT reduces bleeding events and is non-inferior 
+                                                                               aspirin)                                     for MACE after PCI in patients with acute coronary 
+                                                                                                                            syndrome at 1-year follow-up
+   SMART-CHOICE 3          5000           Samsung Medical Center, Korea        Intervention: clopidogrel SAPT;              Assess whether clopidogrel SAPT compared with 
+   (NCT04418479)                                                               comparator: aspirin SAPT                     aspirin SAPT beyond 12 months after PCI reduces 
+                                                                                                                            MACCE at 1-year follow-up
+   ETACS (NCT05457582)      1212          Nanjing First Hospital, Nanjing Medical Intervention: PCSK9 inhibitor with high intensity Assess whether PCSK9 inhibitor with high intensity 
+                                          University, China                    statin;                                      statin compared with placebo with high intensity statin 
+                                                                               comparator: placebo with high intensity statin reduces MACCE at 1-year follow-up in patients with 
+                                                                                                                            acute coronary syndrome and multiple lesions
+                                                                                                                                                (Table 4 continues on next page)
+
+
+1622                                                                                                                                   www.thelancet.com   Vol 401   May 13, 2023
+                                                                                                                                                             Review
+
+
+                         Sample (n)       Leading institution                  Interventions                                Primary aim
+   (Continued from previous page)
+   PROTECT-HBR             3000           Asan Medical Center, Korea           Intervention: potassium-competitive acid     Assess whether potassium-competitive acid blocker 
+   (NCT04416581)                                                               blocker; comparator: proton-pump inhibitor   compared with proton-pump inhibitor in patients with 
+                                                                                                                            cardiovascular disease receiving antiplatelet or OAC 
+                                                                                                                            therapy who are at high gastrointestinal bleeding risk 
+                                                                                                                            reduces gastrointestinal bleeding at 6-month follow-up
+   Intravascular ultrasound-guided left main PCI
+   OPTMAL                   800           John Radcliffe Hospital, Oxford      Intervention:  intravscular ultrasound-guided Assess whether intravscular ultrasound-guided 
+   (NCT04072003)                          University Hospitals, UK             PCI; comparator: QCA-guided PCI              PCI compared with qualitative angiography-guided PCI 
+                                                                                                                            in patients with unprotected left main disease reduces 
+                                                                                                                            MACCE at 2-year follow-up
+   Follow-up after coronary revascularisation
+   ARCACHON                2664           Pitié-Salpêtrière, France            Intervention: no stress testing strategy;    Assess whether no stress testing strategy compared 
+   (NCT04566497)                                                               comparator: systematic stress testing strategy with systematic stress testing strategy is non-inferior 
+                                                                                                                            for cardiovascular events in asymptomatic patients 
+                                                                                                                            after coronary revascularisation
+   Acute myocardial infarction
+   BETAMI                 10 000          Oslo University Hospital, Norway     Intervention: β blockers;                    Assess whether β blockers in patients with acute 
+   (NCT03646357)                                                               comparator: no β blockers                    myocardial infarction without heart failure or left 
+                                                                                                                            ventricular systolic dysfunction reduces MACE at 
+                                                                                                                            ≥2-year follow-up
+   DANBLOCK                3570           Bispebjerg Hospital, Denmark         Intervention: β blockers;                    Assess whether β blockers in patients with acute 
+   (NCT03778554)                                                               comparator: no β blockers                    myocardial infarction without heart failure or left 
+                                                                                                                            ventricular systolic dysfunction reduces MACCE at 
+                                                                                                                            2-year follow-up
+   REDUCE-SWEDEHEART       7000           Karolinska Institutet, Sweden        Intervention: β blockers;                    Assess whether β blockers in patients with acute 
+   (NCT03278509)                                                               comparator: no β blockers                    myocardial infarction without left ventricular systolic 
+                                                                                                                            dysfunction reduces MACE at 1-year follow-up
+   REBOOT                  8468           Fundación Centro Nacional de        Intervention: β blockers;                    Assess whether β blockers in patients with acute 
+   (NCT03596385)                          Investigaciones Cardiovasculares     comparator: no β blockers                    myocardial infarction without heart failure or left 
+                                          Carlos III, Spain                                                                 ventricular systolic dysfunction reduces MACCE 
+                                                                                                                            at a median 2·75-year follow-up
+   SMART- DECISION         2540           Samsung Medical Center, Korea        Intervention: discontinuation of β blockers; Assess whether discontinuation of β blockers after at 
+   (NCT04769362)                                                               comparator: continuation of β blockers       least 1 year of β blockers compared with continuation 
+                                                                                                                            of β blockers in patients with acute myocardial 
+                                                                                                                            infarction without heart failure or left ventricular 
+                                                                                                                            systolic dysfunction is non-inferior to MACE at 2-year 
+                                                                                                                            follow-up
+   AβYSS                   3700           Assistance Publique–Hopitaux de Paris, Intervention: discontinuation of β blockers; Assess whether discontinuation of β blockers after at 
+   (NCT03498066)                          France                               comparator: continuation of β blockers       least 6 months of β blockers compared with 
+                                                                                                                            continuation of β blockers in patients with acute 
+                                                                                                                            myocardial infarction without left ventricular systolic 
+                                                                                                                            dysfunction is non-inferior to MACE at 2-year follow-up
+   SENIOR-RITA             2300           Newcastle-upon-Tyne Hospitals, UK    Intervention: coronary angiography;          Assess whether an initial invasive strategy of coronary 
+   (NCT03052036)                                                               comparator: optimal medical therapy          angiography in older patients with NSTE-ACS 
+                                                                                                                            compared with optimal medical therapy reduces death 
+                                                                                                                            or myocardial infarction at 5-year follow-up
+
+  BARC=Bleeding Academic Consortium. CABG=coronary artery bypass grafting. CTA=computed tomography angiography. DAPT=dual antiplatelet therapy. DOAC=direct oral anticoagulant. IABP=intra-aortic 
+  balloon counterpulsation. INR=international normalised ratio. LAD=left anterior descending artery. LIMA-LAD=left internal mammary artery to left anterior descending artery grafting. LVAD=left ventricular 
+  assist device. LVEF=left ventricular ejection fraction. MACCE=major adverse cardiovascular and cerebrovascular events. MACE=major adverse cardiac events. MICS-CABG=minimally invasive cardiac surgery 
+  coronary artery bypass grafting. MID-CABG=minimally invasive direct coronary artery bypass grafting. NSTE-ACS=non ST-elevation acute coronary syndrome. OAC, oral anticoagulation. PCI=percutaneous 
+  coronary intervention. PCSK9=proprotein convertase subtilisin–kexin type 9. QCA=qualitative coronary angiography. SAPT=single antiplatelet therapy. SF-36=short form 36-item physical and mental health 
+  questionnaire. SVG=saphenous vein graft. SYNTAX=Synergy between Percutaneous Coronary Intervention with Taxus and Cardiac Surgery. VA-ECMO=veno-arterial extracorporeal membrane oxygenation.
+
+  Table 4: Summary of ongoing randomised trials on coronary revascularisation
+
+personal communication). When emergency reperfusion                        have shown important geographical differences in 
+is recommended, patients with ST-segment elevation                         treatment effects between HICs and LMICs.144,145 Although 
+myocardial infarction are mainly given fibrinolytic                        the available evidence suggests that in patients with 
+therapy in LMICs, and primary PCI in HICs.139,140                          coronary artery disease CABG is more cost-effective than 
+  Most published data on the effects of PCI, CABG, and                     PCI in the long-term,146 this finding is based on procedural 
+medical therapy come from high income populations and                      outcomes and postoperative survival that might not be 
+might not apply to LMICs.144 Many cardiovascular trials                    applicable to some LMICs. Differences in demographics, 
+
+www.thelancet.com   Vol 401   May 13, 2023                                                                                                                                 1623
+      Review
+
+
+                      resources, insurance systems, and health policies between event only. This information will allow accurately 
+                      LMICs and HICs make general considerations for        informed treatment decisions based on clinical status and 
+                      revascularisation choices in LMICs difficult. In general, personal expectations and goals to be made by individual 
+                      the choice of coronary revascularisation method should be patients and their treating physicians.
+                      based on resource availability and local expertise. Given Finally, some of the classic concepts regarding coronary 
+                      that the costs and technical challenges associated with revascularisation and its role compared with medical 
+                      procedural complications can be very high (potentially therapy might have to be revisited. Future indications for 
+                      overwhelming fragile health systems147,148), the likelihood of the treatment of coronary artery disease could shift 
+                      procedural success should drive the choice of         towards less invasive treatments and towards prevention 
+                      revascularisation method.                             rather than intervention, as generally happens with 
+                                                                            evolution in medicine.
+                      Future directions and gaps in knowledge               Contributors
+                      More than five decades after the introduction of CABG All authors contributed equally to the conceptualisation, writing, editing, 
+                      and four decades after the introduction of PCI into   and review of this Review.
+                      clinical practice, the procedural and long-term outcomes Declaration of interests
+                      of the two revascularisation methods are now well     The authors declare no competing interests. MG receives research 
+                                                                            grants from the Canadian Institutes of Health and Research and the 
+                      characterised. Although technological improvements will National Institute of Health. FA reports personal fees from Amgen, 
+                      continue to increase their safety and efficacy, the relative AstraZeneca, Bayer, Bristol Meyers Squibb/Pfizer, and Daiichi-Sankyo. 
+                      advantages and disadvantages of the two interventions TK receives research grants from ABBOT and Boston Scientific. 
+                      will probably remain substantially unchanged (for     There has been no funding or payment directed towards this Review 
+                                                                            or the authors’ decision to submit for publication.
+                      a summary of key ongoing trials on coronary 
+                      revascularisation see table 4).                       Acknowledgments
+                                                                            We thank Lamia Harik and Ko Yamamoto for their help in the 
+                        A limitation of available data is that they are from preparation of this work.
+                      prevalently young, White, male, HIC populations. The 
+                                                                            References
+                      results of coronary revascularisation in women, non-  1  Inohara T, Kohsaka S, Spertus JA, et al. Comparative trends in 
+                      White racial and ethnic groups, older adults, and LMICs  percutaneous coronary intervention in Japan and the United States, 
+                      require further and urgent investigation.124             2013 to 2017. J Am Coll Cardiol 2020; 76: 1328–40.
+                                                                            2  Ma L-Y, Chen W-W, Gao R-L, et al. China cardiovascular diseases 
+                        All trials comparing medical therapy, PCI, or CABG     report 2018: an updated summary. J Geriatr Cardiol 2020; 17: 1–8.
+                      aimed at assessing superiority or non-inferiority of one or 3  Shimizu H, Okada M, Toh Y, et al. Thoracic and cardiovascular 
+                      other strategy in relation to a short list of cardiovascular surgeries in Japan during 2018: annual report by the Japanese 
+                                                                               Association for Thoracic Surgery. Gen Thorac Cardiovasc Surg 2021; 
+                      outcomes (typically death, myocardial infarction, stroke, 69: 179–212.
+                      and repeat revascularisation). Advances in diagnostic 4  OECD. Health at a glance 2021: OECD indicators. 2021. https://
+                      techniques have enabled detection of minor non-fatal     www.oecd-ilibrary.org/deliver/ae3016b9-en.pdf (accessed 
+                      cardiovascular events, often neither associated with     Sept 10, 2022).
+                                                                            5  Mueller RL, Rosengart TK, Isom OW. The history of surgery for 
+                      symptoms nor affecting quality of life. There is         ischemic heart disease. Ann Thorac Surg 1997; 63: 869–78.
+                      uncertainty on the definition of clinically relevant non- 6  Bowdish ME, D’Agostino RS, Thourani VH, et al. STS Adult 
+                      fatal events (in particular myocardial infarction and    Cardiac Surgery Database: 2021 update on outcomes, quality, 
+                                                                               and research. Ann Thorac Surg 2021; 111: 1770–80.
+                      stroke) and on how to account for the competing risk of 7  Ohri SK, Benedetto U, Luthra S, et al. Coronary artery bypass 
+                      death,149 and this uncertainty has generated confusion   surgery in the UK, trends in activity and outcomes from a 15-year 
+                      and disagreement in the interpretation of the available  complete national series. Eur J Cardiothorac Surg 2022; 
+                                                                               61: 449–56.
+                      evidence. Other events that are very important for 
+                                                                            8  ElBardissi AW, Aranki SF, Sheng S, O’Brien SM, Greenberg CC, 
+                      patients—such as renal, pulmonary, and neuro­            Gammie JS. Trends in isolated coronary artery bypass grafting: 
+                      psychological outcomes, as well as quality of life and the an analysis of the Society of Thoracic Surgeons adult cardiac 
+                      ability to work and interact socially—have been largely  surgery database. J Thorac Cardiovasc Surg 2012; 143: 273–81.
+                                                                            9  Chan J, Dimagli A, Dong T, Fudulu DP, Sinha S, Angelini GD. 
+                      ignored or relegated to secondary analyses. Additionally, Trend and factors associated with multiple arterial revascularization 
+                      trials have generally used a time-to-first-event analysis, in coronary artery bypass grafting in the UK. Eur J Cardiothorac Surg 
+                      ignoring recurrent events and methods to adjust for      2022; 62: ezac284.
+                                                                            10  Gaudino M, Rahouma M, Di Mauro M, et al. Early versus delayed 
+                      multiplicity. At this stage of knowledge, the use of a   stroke after cardiac surgery: a systematic review and meta-analysis. 
+                      superiority or non-inferiority approach seems outdated,  J Am Heart Assoc 2019; 8: e012447.
+                      as the interventions used to treat coronary artery disease 11  Lappalainen L, Rajamaki B, Tolppanen A-M, Hartikainen S. 
+                                                                               Coronary artery revascularizations and cognitive decline— 
+                      clearly have very different early and late risk profiles and a systematic review. Curr Probl Cardiol 2022; 47: 100960.
+                      are complementary rather than antagonistic. The new   12  Kuźma E, Airdrie J, Littlejohns TJ, et al. Coronary artery bypass 
+                      generation of coronary revascularisation trials should   graft surgery and dementia risk in the Cardiovascular Health Study. 
+                                                                               Alzheimer Dis Assoc Disord 2017; 31: 120–27.
+                      provide adequately powered estimates of the results of the 
+                                                                            13  Whitlock EL, Diaz-Ramirez LG, Smith AK, et al. Association of 
+                      two techniques in heterogenous groups of patients and    coronary artery bypass grafting vs percutaneous coronary 
+                      for a larger number of holistic outcomes, which should   intervention with memory decline in older adults undergoing 
+                      not be limited to the cardiovascular system or to the first coronary revascularization. JAMA 2021; 325: 1955–64.
+
+1624                                                                                             www.thelancet.com   Vol 401   May 13, 2023
+                                                                                                                                                             Review
+
+
+14   Währborg P, Booth JE, Clayton T, et al. Neuropsychological            37   Gaudino M, Antoniades C, Benedetto U, et al. Mechanisms, 
+     outcome after percutaneous coronary intervention or coronary               consequences, and prevention of coronary graft failure. Circulation 
+     artery bypass grafting: results from the Stent or Surgery (SoS) Trial.     2017; 136: 1749–64.
+     Circulation 2004; 110: 3411–17.                                       38   Taggart DP, D’Amico R, Altman DG. Effect of arterial 
+15   Rydén L, Sartipy U, Evans M, Holzmann MJ. Acute kidney injury              revascularisation on survival: a systematic review of studies 
+     after coronary artery bypass grafting and long-term risk of end-stage      comparing bilateral and single internal mammary arteries. Lancet 
+     renal disease. Circulation 2014; 130: 2005–11.                             2001; 358: 870–75.
+16   Gumus F, Polat A, Yektas A, et al. Prolonged mechanical ventilation   39   Gaudino M, Alexander JH, Bakaeen FG, et al. Randomized 
+     after CABG: risk factor analysis. J Cardiothorac Vasc Anesth 2015;         comparison of the clinical outcome of single versus multiple 
+     29: 52–58.                                                                 arterial grafts: the ROMA trial-rationale and study protocol. 
+17   Dobrev D, Aguilar M, Heijman J, Guichard J-B, Nattel S.                    Eur J Cardiothorac Surg 2017; 52: 1031–40.
+     Postoperative atrial fibrillation: mechanisms, manifestations and     40   Guo MH, Wells GA, Glineur D, et al. Minimally Invasive coronary 
+     management. Nat Rev Cardiol 2019; 16: 417–36.                              surgery compared to STernotomy coronary artery bypass grafting: 
+18   Caldonazo T, Kirov H, Rahouma M, et al. Atrial fibrillation after          the MIST trial. Contemp Clin Trials 2019; 78: 140–45.
+     cardiac surgery: a systematic review and meta-analysis.               41   Dixon LK, Akberali U, Di Tommaso E, George SJ, Johnson TW, 
+     J Thorac Cardiovasc Surg 2023; 165: 94–103.                                Bruno VD. Hybrid coronary revascularization versus coronary artery 
+19   Park YM, Cha MS, Park C-H, et al. Newly developed post-operative           bypass grafting for multivessel coronary artery disease: a systematic 
+     atrial fibrillation is associated with an increased risk of late           review and meta-analysis. Int J Cardiol 2022; 359: 20–27.
+     recurrence of atrial fibrillation in patients who underwent open      42   Grüntzig A. Transluminal dilatation of coronary-artery stenosis. 
+     heart surgery: long-term follow up. Cardiol J 2017; 24: 633–41.            Lancet 1978; 1: 263.
+20   Gaudino M, Sanna T, Ballman KV, et al. Posterior left                 43   Hartzler GO, Rutherford BD, McConahay DR. Percutaneous 
+     pericardiotomy for the prevention of atrial fibrillation after cardiac     transluminal coronary angioplasty: application for acute myocardial 
+     surgery: an adaptive, single-centre, single-blind, randomised,             infarction. Am J Cardiol 1984; 53: 117C–21C.
+     controlled trial. Lancet 2021; 398: 2075–83.                          44   Keeley EC, Boura JA, Grines CL. Primary angioplasty versus 
+21   Gillinov AM, Bagiella E, Moskowitz AJ, et al. Rate control versus          intravenous thrombolytic therapy for acute myocardial infarction: 
+     rhythm control for atrial fibrillation after cardiac surgery.              a quantitative review of 23 randomised trials. Lancet 2003; 
+     N Engl J Med 2016; 374: 1911–21.                                           361: 13–20.
+22   Yao RJR, Hawkins NM, Lavaie Y, Deyell MW, Andrade JG, Bashir J.       45   Szummer K, Wallentin L, Lindhagen L, et al. Relations between 
+     Anticoagulation management of postoperative atrial fibrillation after      implementation of new treatments and improved outcomes in 
+     cardiac surgery: a systematic review. J Card Surg 2021; 36: 2081–94.       patients with non-ST-elevation myocardial infarction during the last 
+23   Arsenault KA, Yusuf AM, Crystal E, et al. Interventions for                20 years: experiences from SWEDEHEART registry 1995 to 2014. 
+     preventing post-operative atrial fibrillation in patients undergoing       Eur Heart J 2018; 39: 3766–76.
+     heart surgery. Cochrane Database Syst Rev 2013; 2013: CD003611.       46   Fischman DL, Leon MB, Baim DS, et al. A randomized comparison 
+24   Huang T-Y, Huang T-S, Cheng Y-T, et al. Radial artery harvesting in        of coronary-stent placement and balloon angioplasty in the treatment 
+     coronary artery bypass grafting surgery—endoscopic or open                 of coronary artery disease. N Engl J Med 1994; 331: 496–501.
+     method? A meta-analysis. PLoS One 2020; 15: e0236499.                 47   Kimura T, Nosaka H, Yokoi H, Iwabuchi M, Nobuyoshi M. 
+25   Perezgrovas-Olaria R, Audisio K, Cancelli G, et al. Deep sternal           Serial angiographic follow-up after Palmaz-Schatz stent 
+     wound infection and mortality in cardiac surgery: a meta-analysis.         implantation: comparison with conventional balloon angioplasty. 
+     Ann Thorac Surg 2023; 115: 272–80.                                         J Am Coll Cardiol 1993; 21: 1557–63.
+26   Hokkanen M, Huhtala H, Laurikka J, Järvinen O. The effect of          48   Schömig A, Neumann F-J, Kastrati A, et al. A randomized 
+     postoperative complications on health-related quality of life and          comparison of antiplatelet and anticoagulant therapy after the 
+     survival 12 years after coronary artery bypass grafting—a prospective      placement of coronary-artery stents. N Engl J Med 1996; 
+     cohort study. J Cardiothorac Surg 2021; 16: 173.                           334: 1084–89.
+27   Risnes I, Abdelnoor M, Almdahl SM, Svennevig JL. Mediastinitis        49   Serruys PW, de Jaegere P, Kiemeneij F, et al. A comparison of 
+     after coronary artery bypass grafting risk factors and long-term           balloon-expandable-stent implantation with balloon angioplasty in 
+     survival. Ann Thorac Surg 2010; 89: 1502–09.                               patients with coronary artery disease. N Engl J Med 1994; 331: 489–95.
+28   Shawon MSR, Odutola M, Falster MO, Jorm LR. Patient and               50   Morice M-C, Serruys PW, Sousa JE, et al. A randomized comparison 
+     hospital factors associated with 30-day readmissions after coronary        of a sirolimus-eluting stent with a standard stent for coronary 
+     artery bypass graft (CABG) surgery: a systematic review and                revascularization. N Engl J Med 2002; 346: 1773–80.
+     meta-analysis. J Cardiothorac Surg 2021; 16: 172.                     51   Navarese EP, Tandjung K, Claessen B, et al. Safety and efficacy 
+29   Engelman DT, Ben Ali W, Williams JB, et al. Guidelines for                 outcomes of first and second generation durable polymer drug 
+     perioperative care in cardiac surgery: Enhanced Recovery After             eluting stents and biodegradable polymer biolimus eluting stents in 
+     Surgery Society recommendations. JAMA Surg 2019; 154: 755–66.              clinical practice: comprehensive network meta-analysis. BMJ 2013; 
+30   Anderson L, Sharp GA, Norton RJ, et al. Home-based versus                  347: f6530.
+     centre-based cardiac rehabilitation. Cochrane Database Syst Rev 2017; 52   Shiomi H, Morimoto T, Furukawa Y, et al. Coronary 
+     6: CD007130.                                                               revascularization in the past two decades in Japan (from the 
+31   Rollman BL, Belnap BH, LeMenager MS, et al. Telephone-delivered            CREDO-Kyoto PCI/CABG Registries Cohort -1, -2, and -3). 
+     collaborative care for treating post-CABG depression: a randomized         Am J Cardiol 2021; 153: 20–29.
+     controlled trial. JAMA 2009; 302: 2095–103.                           53   Ueki Y, Otsuka T, Bär S, et al. Frequency and outcomes of 
+32   Gaudino M, Angelini GD, Antoniades C, et al. Off-pump coronary             periprocedural MI in patients with chronic coronary syndromes 
+     artery bypass grafting: 30 years of debate. J Am Heart Assoc 2018;         undergoing PCI. J Am Coll Cardiol 2022; 79: 513–26.
+     7: e009934.                                                           54   Kwok CS, Kontopantelis E, Myint PK, et al. Stroke following 
+33   Quin JA, Wagner TH, Hattler B, et al. Ten-year outcomes of                 percutaneous coronary intervention: type-specific incidence, 
+     off-pumpvs  on-pump coronary artery bypass grafting in the                 outcomes and determinants seen by the British Cardiovascular 
+     Department of Veterans Affairs: a randomized clinical trial.               Intervention Society 2007–12. Eur Heart J 2015; 36: 1618–28.
+     JAMA Surg 2022; 157: 303–10.                                          55   Subherwal S, Peterson ED, Dai D, et al. Temporal trends in and 
+34   Diegeler A, Börgermann J, Kappert U, et al. Five-year outcome after        factors associated with bleeding complications among patients 
+     off-pump or on-pump coronary artery bypass grafting in elderly             undergoing percutaneous coronary intervention: a report from the 
+     patients. Circulation 2019; 139: 1865–71.                                  National Cardiovascular Data CathPCI Registry. J Am Coll Cardiol 
+                                                                                2012; 59: 1861–69.
+35   Kuwahara G, Tashiro T. Current status of off-pump coronary artery 
+     bypass. Ann Thorac Cardiovasc Surg 2020; 26: 125–32.                  56   Tsai TT, Patel UD, Chang TI, et al. Contemporary incidence, 
+                                                                                predictors, and outcomes of acute kidney injury in patients 
+36   Gaudino M, Hameed I, Robinson NB, et al. Angiographic patency 
+                                                                                undergoing percutaneous coronary interventions: insights from 
+     of coronary artery bypass conduits: a network meta-analysis of 
+                                                                                the NCDR Cath-PCI registry. JACC Cardiovasc Interv 2014; 7: 1–9.
+     randomized trials. J Am Heart Assoc 2021; 10: e019206.
+
+
+www.thelancet.com   Vol 401   May 13, 2023                                                                                                                                 1625
+        Review
+
+
+                              57   Giustino G, Colombo A, Camaj A, et al. Coronary in-stent restenosis:  79   Scandinavian Simvastatin Survival Study Group. Randomised trial 
+                                   JACC state-of-the-art review. J Am Coll Cardiol 2022; 80: 348–72.          of cholesterol lowering in 4444 patients with coronary heart disease: 
+                              58   Brugaletta S, Gomez-Lara J, Ortega-Paz L, et al. 10-year follow-up of      the Scandinavian Simvastatin Survival Study (4S). Lancet 1994; 
+                                   patients with everolimus-eluting versus bare-metal stents after            344: 1383–89.
+                                   ST-segment elevation myocardial infarction. J Am Coll Cardiol 2021;   80   Juul-Möller S, Edvardsson N, Jahnmatz B, Rosén A, Sørensen S, 
+                                   77: 1165–78.                                                               Omblus R. Double-blind trial of aspirin in primary prevention of 
+                              59   Garcia-Garcia HM, McFadden EP, Farb A, et al. Standardized end point       myocardial infarction in patients with stable chronic angina 
+                                   definitions for coronary intervention trials: the Academic Research        pectoris. Lancet 1992; 340: 1421–25.
+                                   Consortium-2 consensus document. Circulation 2018; 137: 2635–50.      81   Sleight P. The HOPE Study (Heart Outcomes Prevention 
+                              60   Claessen BE, Henriques JPS, Jaffer FA, Mehran R, iekP  JJ,                 Evaluation). J Renin Angiotensin Aldosterone Syst 2000; 1: 18–20.
+                                   Dangas GD. Stent thrombosis: a clinical perspective.                  82   Fibrinolytic Therapy Trialists’ (FTT) Collaborative Group. 
+                                   JACC Cardiovasc Interv 2014; 7: 1081–92.                                   Indications for fibrinolytic therapy in suspected acute myocardial 
+                              61   Jeger RV, Farah A, Ohlow M-A, et al. Drug-coated balloons for small        infarction: collaborative overview of early mortality and major 
+                                   coronary artery disease (BASKET-SMALL 2): an open-label                    morbidity results from all randomised trials of more than 
+                                   randomised non-inferiority trial. Lancet 2018; 392: 849–56.                1000 patients. Lancet 1994; 343: 311–22.
+                              62   Siontis GCM, Stefanini GG, Mavridis D, et al. Percutaneous            83   Cannon CP, Braunwald E, McCabe CH, et al. Intensive versus 
+                                   coronary interventional strategies for treatment of in-stent               moderate lipid lowering with statins after acute coronary 
+                                   restenosis: a network meta-analysis. Lancet 2015; 386: 655–64.             syndromes. N Engl J Med 2004; 350: 1495–504.
+                              63   Sorrentino S, Giustino G, Mehran R, et al. Everolimus-Eluting         84   Yusuf S, Zhao F, Mehta SR, Chrolavicius S, Tognoni G, Fox KK. 
+                                   bioresorbable scaffolds versus everolimus-eluting metallic stents.         Effects of clopidogrel in addition to aspirin in patients with acute 
+                                   J Am Coll Cardiol 2017; 69: 3055–66.                                       coronary syndromes without ST-segment elevation. N Engl J Med 
+                              64   Ferrante G, Rao SV, Jüni P, et al. Radial versus femoral access for        2001; 345: 494–502.
+                                   coronary interventions across the entire spectrum of patients with    85   Packer M, Bristow MR, Cohn JN, et al. The effect of carvedilol on 
+                                   coronary artery disease: a meta-analysis of randomized trials.             morbidity and mortality in patients with chronic heart failure. 
+                                   JACC Cardiovasc Interv 2016; 9: 1419–34.                                   N Engl J Med 1996; 334: 1349–55.
+                              65   Valgimigli M, Gagnor A, Calabró P, et al. Radial versus femoral       86   McMurray JJV, Packer M, Desai AS, et al. Angiotensin-neprilysin 
+                                   access in patients with acute coronary syndromes undergoing                inhibition versus enalapril in heart failure. N Engl J Med 2014; 
+                                   invasive management: a randomised multicentre trial. Lancet 2015;          371: 993–1004.
+                                   385: 2465–76.                                                         87   Vaduganathan M, Docherty KF, Claggett BL, et al. SGLT-2 
+                              66   Neumann F-J, Sousa-Uva M, Ahlsson A, et al. 2018 ESC/EACTS                 inhibitors in patients with heart failure: a comprehensive meta-
+                                   guidelines on myocardial revascularization. Eur Heart J 2019;              analysis of five randomised controlled trials. Lancet 2022; 
+                                   40: 87–165.                                                                400: 757–67.
+                              67   Lawton JS, Tamis-Holland JE, Bangalore S, et al. 2021 ACC/AHA/        88   Newby LK, LaPointe NM, Chen AY, et al. Long-term adherence to 
+                                   SCAI guideline for coronary artery revascularization: executive            evidence-based secondary prevention therapies in coronary artery 
+                                   summary: a report of the American College of Cardiology/American           disease. Circulation 2006; 113: 203–12.
+                                   Heart Association Joint Committee on Clinical Practice Guidelines.    89   Pinho-Gomes A-C, Azevedo L, Ahn J-M, et al. Compliance with 
+                                   Circulation 2022; 145: e4–17.                                              guideline-directed medical therapy in contemporary coronary 
+                              68   Tonino PAL, De Bruyne B, Pijls NHJ, et al. Fractional flow reserve         revascularization trials. J Am Coll Cardiol 2018; 71: 591–602.
+                                   versus angiography for guiding percutaneous coronary                  90   Boden WE, O’Rourke RA, Teo KK, et al. Optimal medical therapy 
+                                   intervention. N Engl J Med 2009; 360: 213–24.                              with or without PCI for stable coronary disease. N Engl J Med 2007; 
+                              69   Götberg M, Christiansen EH, Gudmundsdottir IJ, et al.                      356: 1503–16.
+                                   Instantaneous wave-free ratio versus fractional flow reserve to guide 91   Maron DJ, Hochman JS, Reynolds HR, et al. Initial invasive or 
+                                   PCI. N Engl J Med 2017; 376: 1813–23.                                      conservative strategy for stable coronary disease. N Engl J Med 2020; 
+                              70   Davies JE, Sen S, Dehbi H-M, et al. Use of the instantaneous wave-free     382: 1395–407.
+                                   ratio or fractional flow reserve in PCI. N Engl J Med 2017; 376: 1824–34. 92  Spertus JA, Jones PG, Maron DJ, et al. Health-status outcomes with 
+                              71   Zhang J, Gao X, Kan J, et al. Intravascular ultrasound versus              invasive or conservative care in coronary disease. N Engl J Med 
+                                   angiography-guided drug-eluting stent implantation: the                    2020; 382: 1408–19.
+                                   ULTIMATE trial. J Am Coll Cardiol 2018; 72: 3126–37.                  93   Hochman JS, Anthopolos R, Reynolds HR, et al. Survival after 
+                              72   Kubo T, Shinke T, Okamura T, et al. Optical frequency domain               invasive or conservative management of stable coronary disease. 
+                                   imaging vs. intravascular ultrasound in percutaneous coronary              Circulation 2023; 147: 8–19.
+                                   intervention (OPINION trial): one-year angiographic and clinical      94   Frye RL, August P, Brooks MM, et al. A randomized trial of 
+                                   results. Eur Heart J 2017; 38: 3139–47.                                    therapies for type 2 diabetes and coronary artery disease. 
+                              73   Costa F, Montalto C, Bhatt D, et al. Abbreviated dual antiplatelet         N Engl J Med 2009; 360: 2503–15.
+                                   therapy after PCI in patients at high bleeding risk: a collaborative  95   Xaplanteris P, Fournier S, Pijls NHJ, et al. Five-year outcomes with 
+                                   meta-analysis of randomized trials. Eur Heart J 2022; 43: ehac544.1402.    PCI guided by fractional flow reserve. N Engl J Med 2018; 
+                              74   Benenati S, Galli M, De Marzo V, et al. Very short vs. long dual           379: 250–59.
+                                   antiplatelet therapy after second generation drug-eluting stents in   96   Bangalore S, Maron DJ, Stone GW, Hochman JS. Routine 
+                                   35 785 patients undergoing percutaneous coronary interventions:            revascularization versus initial medical therapy for stable ischemic 
+                                   a meta-analysis of randomized controlled trials.                           heart disease: a systematic review and meta-analysis of randomized 
+                                   Eur Heart J Cardiovasc Pharmacother 2021; 7: 86–93.                        trials. Circulation 2020; 142: 841–57.
+                              75   Azzalini L, Karmpaliotis D, Santiago R, et al. Contemporary issues    97   Navarese EP, Lansky AJ, Kereiakes DJ, et al. Cardiac mortality in 
+                                   in chronic total occlusion percutaneous coronary intervention.             patients randomised to elective coronary revascularisation plus 
+                                   JACC Cardiovasc Interv 2022; 15: 1–21.                                     medical therapy or medical therapy alone: a systematic review and 
+                              76   Kirtane AJ, Doshi D, Leon MB, et al. Treatment of higher-risk              meta-analysis. Eur Heart J 2021; 42: 4638–51.
+                                   patients with an indication for revascularization: evolution within   98   Velazquez EJ, Lee KL, Deja MA, et al. Coronary-artery bypass 
+                                   the field of contemporary percutaneous coronary intervention.              surgery in patients with left ventricular dysfunction. N Engl J Med 
+                                   Circulation 2016; 134: 422–31.                                             2011; 364: 1607–16.
+                              77   Kannel WB, Sytkowski PA. Atherosclerosis risk factors.                99   Velazquez EJ, Lee KL, Jones RH, et al. Coronary-artery bypass 
+                                   Pharmacol Ther 1987; 32: 207–35.                                           surgery in patients with ischemic cardiomyopathy. N Engl J Med 
+                              78   Haskell WL, Alderman EL, Fair JM, et al. Effects of intensive              2016; 374: 1511–20.
+                                   multiple risk factor reduction on coronary atherosclerosis and        100  Perera D, Clayton T, O’Kane PD, et al. Percutaneous 
+                                   clinical cardiac events in men and women with coronary artery              revascularization for ischemic left ventricular dysfunction. 
+                                   disease. The Stanford Coronary Risk Intervention Project (SCRIP).          N Engl J Med 2022; 387: 1351–60.
+                                   Circulation 1994; 89: 975–90.
+
+
+1626                                                                                                                                   www.thelancet.com   Vol 401   May 13, 2023
+                                                                                                                                                             Review
+
+
+101  Gaudino M, Audisio K, Hueb WA, et al. Coronary artery bypass          120  Mehta SR, Wang J, Wood DA, et al. Complete revascularization 
+     grafting versus medical therapy in patients with stable coronary           vs culprit lesion-only percutaneous coronary intervention for 
+     artery disease: an individual patient data pooled meta-analysis of         angina-related quality of life in patients with ST-segment elevation 
+     randomized trials. J Thorac Cardiovasc Surg 2022; published online         myocardial infarction: results from the COMPLETE randomized 
+     June 9. https://doi.org/10.1016/j.jtcvs.2022.06.003.                       clinical trial. JAMA Cardiol 2022; 7: 1091–99.
+102  Doenst T, Bonow RO, Bhatt DL, Falk V, Gaudino M. Improving            121  Engstrøm T, Kelbæk H, Helqvist S, et al. Complete revascularisation 
+     terminology to describe coronary artery procedures: JACC Review            versus treatment of the culprit lesion only in patients with 
+     Topic of the Week. J Am Coll Cardiol 2021; 78: 180–88.                     ST-segment elevation myocardial infarction and multivessel disease 
+103  Taniwaki M, Stefanini GG, Silber S, et al. 4-year clinical outcomes        (DANAMI-3—PRIMULTI): an open-label, randomised controlled 
+     and predictors of repeat revascularization in patients treated with        trial. Lancet 2015; 386: 665–71.
+     new-generation drug-eluting stents: a report from the RESOLUTE        122  Wald DS, Morris JK, Wald NJ, et al. Randomized trial of preventive 
+     All-Comers trial (A Randomized Comparison of a Zotarolimus-                angioplasty in myocardial infarction. N Engl J Med 2013; 
+     Eluting Stent With an Everolimus-Eluting Stent for Percutaneous            369: 1115–23.
+     Coronary Intervention). J Am Coll Cardiol 2014; 63: 1617–25.          123  Fox KAA, Clayton TC, Damman P, et al. Long-term outcome 
+104  Farkouh ME, Domanski M, Sleeper LA, et al. Strategies for                  of a routine versus selective invasive strategy in patients with 
+     multivessel revascularization in patients with diabetes. N Engl J Med      non-ST-segment elevation acute coronary syndrome a meta-
+     2012; 367: 2375–84.                                                        analysis of individual patient data. J Am Coll Cardiol 2010; 
+105  Mohr FW, Morice M-C, Kappetein AP, et al. Coronary artery bypass           55: 2435–45.
+     graft surgery versus percutaneous coronary intervention in patients   124  Gaudino M, Di Franco A, Cao D, et al. Sex-related outcomes of 
+     with three-vessel disease and left main coronary disease: 5-year follow-   medical, percutaneous, and surgical interventions for coronary 
+     up of the randomised, clinical SYNTAX trial. Lancet 2013; 381: 629–38.     artery disease: JACC Focus Seminar 3/7. J Am Coll Cardiol 2022; 
+106  Thuijs DJFM, Kappetein AP, Serruys PW, et al. Percutaneous                 79: 1407–25.
+     coronary intervention versus coronary artery bypass grafting in       125  Andreotti F, Marchese N. Women and coronary disease. Heart 2008; 
+     patients with three-vessel or left main coronary artery disease:           94: 108–16.
+     10-year follow-up of the multicentre randomised controlled            126  Andreotti F, Maggioni AP, Scambia G. Sex- and genderspecific 
+     SYNTAX trial. Lancet 2019; 394: 1325–34.                                   precision medicine for chronic coronary syndromes: challenges and 
+107  Park S-J, Ahn J-M, Kim Y-H, et al. Trial of everolimus-eluting stents      opportunities. Kardiol Pol 2021; 79: 373–75.
+     or bypass surgery for coronary disease. N Engl J Med 2015;            127  Lee CMY, Mnatzaganian G, Woodward M, et al. Sex disparities in 
+     372: 1204–12.                                                              the management of coronary heart disease in general practices in 
+108  Ahn J-M, Kang D-Y, Yun S-C, et al. Everolimus-eluting stents or            Australia. Heart 2019; 105: 1898–904.
+     bypass surgery for multivessel coronary artery disease: extended      128  Madhavan MV, Gersh BJ, Alexander KP, Granger CB, Stone GW. 
+     follow-up outcomes of multicenter randomized controlled                    Coronary artery disease in patients ≥80 years of age. 
+     BEST trial. Circulation 2022; 146: 1581–90.                                J Am Coll Cardiol 2018; 71: 2015–40.
+109  Head SJ, Milojevic M, Daemen J, et al. Mortality after coronary       129  Andreotti F, Geisler T, Collet JP, et al. Acute, periprocedural and 
+     artery bypass grafting versus percutaneous coronary intervention           longterm antithrombotic therapy in older adults: 2022 update by 
+     with stenting for coronary artery disease: a pooled analysis of            the ESC Working Group on Thrombosis. Eur Heart J 2023; 
+     individual patient data. Lancet 2018; 391: 939–48.                         44: 262–79.
+110  Fearon WF, Zimmermann FM, De Bruyne B, et al. Fractional flow         130  Bangalore S, Maron DJ, O’Brien SM, et al. Management of coronary 
+     reserve-guided PCI as compared with coronary bypass surgery.               disease in patients with advanced kidney disease. N Engl J Med 
+     N Engl J Med 2022; 386: 128–37.                                            2020; 382: 1608–18.
+111  Stone GW, Kappetein AP, Sabik JF, et al. Five-year outcomes after     131  Bueno H, Betriu A, Heras M, at el. Primary angioplasty vs 
+     PCI or CABG for left main coronary disease. N Engl J Med 2019;             fibrinolysis in very old patients with acute myocardial infarction: 
+     381: 1820–30.                                                              TRIANA (TRatamiento del Infarto Agudo de miocardio eN 
+112  Holm NR, Mäkikallio T, Lindsay MM, et al. Percutaneous coronary            Ancianos) randomized trial and pooled analysis with previous 
+     angioplasty versus coronary artery bypass grafting in the treatment        studies. Eur Heart J 2011; 32: 51–60.
+     of unprotected left main stenosis: updated 5-year outcomes from       132  O’Donoghue M, Boden WE, Braunwald E, et al. Early invasive vs 
+     the randomised, non-inferiority NOBLE trial. Lancet 2020;                  conservative treatment strategies in women and men with unstable 
+     395: 191–99.                                                               angina and non-ST-segment elevation myocardial infarction: 
+113  Sabatine MS, Bergmark BA, Murphy SA, et al. Percutaneous                   a meta-analysis. JAMA 2008; 300: 71–80.
+     coronary intervention with drug-eluting stents versus coronary        133  Stefanini GG, Baber U, Windecker S, et al. Safety and efficacy of 
+     artery bypass grafting in left main coronary artery disease:               drug-eluting stents in women: a patient-level pooled analysis of 
+     an individual patient data meta-analysis. Lancet 2021; 398: 2247–57.       randomised trials. Lancet 2013; 382: 1879–88.
+114  Baron SJ, Chinnakondepalli K, Magnuson EA, et al. Quality-of-life     134  Schwann TA, Habib RH, Wallace A, et al. Operative outcomes of 
+     after everolimus-eluting stents or bypass surgery for left-main            multiple-arterial versus single-arterial coronary bypass grafting. 
+     disease: results from the EXCEL trial. J Am Coll Cardiol 2017;             Ann Thorac Surg 2018; 105: 1109–19.
+     70: 3113–22.                                                          135  Gaudino M, Benedetto U, Fremes S, et al. Association of radial artery 
+115  Abdallah MS, Wang K, Magnuson EA, et al. Quality of life after             graft vs saphenous vein graft with long-term cardiovascular outcomes 
+     surgery or DES in patients with 3-vessel or left main disease.             among patients undergoing coronary artery bypass grafting: a 
+     J Am Coll Cardiol 2017; 69: 2039–50.                                       systematic review and meta-analysis. JAMA 2020; 324: 179–87.
+116  Gaudino M, Hameed I, Khan FM, et al. Treatment strategies in          136  The World Bank. Population, total - Low & middle income. 2021. 
+     ischaemic left ventricular dysfunction: a network meta-analysis.           https://data.worldbank.org/indicator/SP.POP.TOTL?locations=XO 
+     Eur J Cardiothorac Surg 2020; 59: 293–301.                                 (accessed Aug 27, 2022).
+117  Nakamura M, Yaku H, Ako J, et al. JCS/JSCVS 2018 guideline on         137  Roth GA, Mensah GA, Johnson CO, et al. Global burden of 
+     revascularization of stable coronary artery disease. Circ J 2022;          cardiovascular diseases and risk factors, 1990–2019: update from the 
+     86: 477–588.                                                               GBD 2019 study. J Am Coll Cardiol 2020; 76: 2982–3021.
+118  Collet J-P, Thiele H, Barbato E, et al. 2020 ESC Guidelines for the   138  Teo K, Chow CK, Vaz M, Rangarajan S, Yusuf S. The Prospective 
+     management of acute coronary syndromes in patients presenting              Urban Rural Epidemiology (PURE) study: examining the impact of 
+     without persistent ST-segment elevation. Eur Heart J 2021;                 societal influences on chronic noncommunicable diseases in 
+     42: 1289–367.                                                              low-, middle-, and high-income countries. Am Heart J 2009; 
+119  Ibanez B, James S, Agewall S, et al. 2017 ESC guidelines for the           158: 1–7.e1.
+     management of acute myocardial infarction in patients presenting      139  Tern PJW, Ho AKH, Sultana R, et al. Comparative overview of 
+     with ST-segment elevation: the task force for the management of            ST-elevation myocardial infarction epidemiology, demographics, 
+     acute myocardial infarction in patients presenting with ST-segment         management, and outcomes in five Asia-Pacific countries: 
+     elevation of the European Society of Cardiology (ESC). Eur Heart J         a meta-analysis. Eur Heart J Qual Care Clin Outcomes 2021; 7: 6–17.
+     2018; 39: 119–77.
+
+www.thelancet.com   Vol 401   May 13, 2023                                                                                                                                 1627
+        Review
+
+
+                              140  Shimony A, Grandi SM, Pilote L, et al. Utilization of evidence-based  146  Magnuson EA, Chinnakondepalli K, Vilain K, et al. Cost-
+                                   therapy for acute coronary syndrome in high-income and low/                effectiveness of percutaneous coronary intervention versus bypass 
+                                   middle-income countries. Am J Cardiol 2014; 113: 793–97.                   surgery for patients with left main disease: results from the EXCEL 
+                              141  Yusuf S, Rangarajan S, Teo K, et al. Cardiovascular risk and events        trial. Circ Cardiovasc Interv 2022; 15: e011981.
+                                   in 17 low-, middle-, and high-income countries. N Engl J Med 2014;    147  Jacobson KM, Hall Long K, McMurtry EK, Naessens JM, Rihal CS. 
+                                   371: 818–27.                                                               The economic burden of complications during percutaneous 
+                              142  Kämpfer J, Yagensky A, Zdrojewski T, et al. Long-term outcomes             coronary intervention. Qual Saf Health Care 2007; 16: 154–59.
+                                   after acute myocardial infarction in countries with different         148  Mehaffey JH, Hawkins RB, Byler M, et al. Cost of individual 
+                                   socioeconomic environments: an international prospective cohort            complications following coronary artery bypass grafting. 
+                                   study. BMJ Open 2017; 7: e012715.                                          J Thorac Cardiovasc Surg 2018; 155: 875–82.e1.
+                              143  Tromp J, Ouwerkerk W, Cleland JGF, et al. Global differences in       149  McCarthy CP, Januzzi JL Jr. Periprocedural MI as an endpoint in 
+                                   burden and treatment of ischemic heart disease in acute heart              clinical trials: a proposed path forward. J Am Coll Cardiol 2022; 
+                                   failure: REPORT-HF. JACC Heart Fail 2021; 9: 349–59.                       79: 527–29.
+                              144  Mentz RJ, Kaski J-C, Dan G-A, et al. Implications of geographical 
+                                   variation on clinical outcomes of cardiovascular trials. Am Heart J   Copyright © 2023 Elsevier Ltd. All rights reserved.
+                                   2012; 164: 303–12.
+                              145  Yusuf S, Wittes J. Interpreting geographic variations in results of 
+                                   randomized, controlled trials. N Engl J Med 2016; 375: 2263–71.
+
+
+1628                                                                                                                                   www.thelancet.com   Vol 401   May 13, 2023

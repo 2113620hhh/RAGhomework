@@ -1,0 +1,473 @@
+﻿        中国介入心脏病学杂志     2020年  6 月第 28 卷第  6 期  Chin J Intervent Cardiol, June 2020, Vol 28, No.6 · 301 ·
+
+                                                                              · 专家共识 ·
+
+        经导管主动脉瓣置换术中国专家共识（2020                                 更新版）
+
+        中国医师协会心血管内科医师分会结构性心脏病专业委员会
+
+           【关键词】  经导管主动脉瓣置换术；    经导管主动脉瓣置入术；    专家共识 
+           【中图分类号】  R541.4  R654. 2
+
+
+            经导管主动脉瓣置换术（transcatheter aortic            钙化程度较高、主动脉瓣反流（aortic regurgitation，
+        valve replacement，TAVR），又称经导管主动脉瓣              AR）多于AS、风湿性病因比例高、股动脉内径较
+        置入术（transcatheter aortic valve implantation，   细［11-15］。在接受TAVR的BAV患者各解剖亚型的构成
+        TAVI），是指将组装完备的人工主动脉瓣经导管置                       比中，我国患者0型（无嵴型）占比较西方国家高［12］。
+        入到病变的主动脉瓣处，在功能上完成主动脉瓣的                         虽然我国TAVR候选人群中BAV的比例较高，但是，
+        置换。自2002年首例成功以来［1］，TAVR已成为老年                   一项单中心研究显示，我国重度AS患者中BAV的比
+        主动脉瓣狭窄（aortic stenosis，AS）患者的一线治疗              例（60~80岁约为50%，≥80岁约为20%）可能与国外
+        手段。欧美国家相继颁布并更新了TAVR的指导性文                       接近［16］。另外一项基于超声心动图数据库大样本人
+        件［2-6］。我国TAVR发展相对缓慢，2010年10月3日开展               群分析显示，我国BAV发病率及并发症发生率与西
+        了首例TAVR［7］。但自2017年两款国产瓣膜上市以来，                  方人群接近［14］。
+        我国TAVR进入快速、全面发展阶段。中国医师协会
+                                                       2  国内外TAVR开展现状
+        心血管内科医师分会结构性心脏病专业委员会及中华
+        医学会心血管病学分会结构性心脏病学组于2015年                           基于PARTNER2研究［4］及SURTAVI研究［5］的
+        底发布了我国首个TAVR指导性文件《经导管主动脉                       结果，目前欧美指南已将外科手术极高危、高危及中
+        瓣置换术中国专家共识》［8］，其对TAVR在我国的初                     危患者列为TAVR的适应证。2019年美国心脏病学会
+        期推广起到积极引导作用。自该文件发布以来，国内外                       （American College of Cardiology，ACC）公布了低
+        TAVR在器械研发、临床研究、应用经验等方面均取                       危患者TAVR的研究包括PARTNER 3研究（使用球
+        得重大进展。为及时更新对TAVR的认识，促进TAVR                     扩式瓣膜Sapien 3）［17］和Evolut Low Risk Trial研究
+        在我国健康、规范、快速发展，故更新了此专家共识。                       （使用自膨式瓣膜Evolut R）［18］，显示外科手术低危
+                                                       患者接受TAVR的效果优于或不劣于外科手术。基于
+        1  主动脉瓣疾病流行病学特点
+                                                       这两项研究结果，2019年美国和欧洲政府部门批准
+            在西方国家，AS是老年人群常见心脏疾病，其                      Sapien 3及Evolut R人工瓣膜应用于外科手术低危患
+        发病率随着年龄增长逐渐增高，在年龄≥65岁人群中                       者。截至2019年底，国外已有十几种TAVR瓣膜获批
+        约占2.0%，在≥85岁人群中约占4%［9-10］。我国尚无AS               上市应用于临床，全球共完成超过40万例TAVR。
+        确切流行病学数据。一项单中心超声心动图数据库分                            2017年5月，两款国产瓣膜（Ven us-A和J-Valve）
+        析提示我国AS发病率可能低于国外［11］。其他一些间                     获批上市；2019年7月另一国产瓣膜（VitaFlow）获
+        接性的调查研究显示，相对于西方国家，我国TAVR                       批上市。Ven us-A瓣膜、VitaFlow瓣膜为经外周动
+        候选患者和西方国家存在一些差异：二叶式主动脉                         脉逆行入径的自膨式瓣膜。J-Valve为经心尖入径瓣
+        瓣（bicuspid aortic valve，BAV）比例较高、主动脉瓣          膜，可治疗AS和AR。国产瓣膜的上市，推动了我国
+                                                       TAVR的快速发展。截至2019年底，全国已有20多个
+                                                       省市   约    家医院共完成         余例        其中
+            DOI： 10. 3969/j. issn. 1004-8812. 2020. 06. 001 、 200           4000    TAVR，     2019
+            通信作者：葛均波，Email：ge.junbo@zs-hospital.sh.cn  年完成了2600多例。我国在TAVR方面积累了自己的
+
+
+202006正文.indd   301                                                                              2020/6/29   15:50:22
+         · 302 ·                       中国介入心脏病学杂志    2020年  6 月第 28 卷第  6 期  Chin J Intervent Cardiol, June 2020, Vol 28, No.6
+
+        经验。目前从我国几大中心经验看来，BAV和三叶                        （5）TAV。（   6）外科手术极高危（无年龄要求），或
+        式主动脉瓣（tricuspid aortic valve， TAV）的TAVR        中、高危且年龄≥70岁。外科手术风险评估参考2014 
+        效果比较，差异无统计学意义［19-22］。J-Valve瓣膜具                年美国瓣膜管理指南［3］。
+        有锚定装置，适合于AR患者的治疗。我国在AR患者                           同时符合以上所有条件者为TAVR的绝对适应
+        的TAVR治疗方面积累了较多经验［23］。总体上，我国                    证。外科术后人工生物瓣退化也作为TAVR的绝对适
+        TAVR累计完成数量小，具有独立开展TAVR能力的                      应证［24］。
+        中心少，较国外有一定差距，患者临床特点也与国外                        3. 2  相对适应证
+        患者存在差异。因此，国外相关指南或指导性文件并                            （1）满足上述的3.1绝对适应证1~5，外科手术低
+        不能完全适用于我国实际临床情况，有必要制定适                         危（STS评分＜4%）且年龄≥70岁。（           2）满足上述的
+        合我国国情的指导性文件。                                   3.1绝对适应证1、2、3、4、6的BAV，或者满足上述的
+                                                       3.1绝对适应证1、2、3、4的BAV，同时外科手术低危
+        3  TAVR适应证
+                                                       且年龄≥70岁，可在有经验中心或者有经验团队（年
+            2017年欧洲瓣膜管理指南所列出的TAVR适应证：                  TAVR手术量20例以上）协助下进行TAVR。（              3）满
+        不适合外科手术的症状性重度AS患者（Ⅰ，B）；或者                      足上述的3.1绝对适应证1、2、3、4且年龄60~70岁的
+        是外科手术风险较高的患者，定义为美国胸外科协会                        患者（BAV或TAV），由心脏团队根据外科手术风险
+        （Society of Thoracic Surgery，STS）评分或欧洲心外科      及患者意愿判断为适合行TAVR。
+        手术评分第2版（EuroSCORE Ⅱ）≥4%，或其他危险                      J-Valve瓣膜对单纯性AR行经心尖入径的TAVR 
+        因素，如虚弱、瓷化主动脉、胸部放疗后，特别是适合                       有效。本共识主要是针对经血管入径的TAVR，故这
+        于经股动脉入径的老年患者（Ⅰ，B）［4］。2017年美国瓣                  部分内容不做阐述。目前国内外也有部分中心使用自
+        膜管理指南所列出的TAVR适应证：外科手术禁忌或                       膨式瓣膜对单纯性AR尝试TAVR治疗［25］，              但仍然
+        高危、预期生存时间超过12个月的症状性重度AS患者                      缺乏足够临床证据。
+        （Ⅰ，A）；外科手术风险中危的重度AS患者                          3. 3  禁忌证
+        （Ⅱa，B-R）［5］。虽然美国和欧洲相关政府部门已批准                       TAVR的禁忌证包括：左心室内血栓、左心室流
+        Sapien 3及Evolut R人工瓣膜应用于外科手术低危患者，              出道梗阻、入径或者主动脉根部解剖形态上不适合
+        但欧美指南尚未对外科手术低危患者的TAVR做出推                       TAVR（如冠状动脉堵塞风险高）、纠治AS后的预期
+        荐。我国不同地域医疗水平发展不均衡，对于外科手术                       寿命小于12个月。
+        高危、禁忌的认识存在差异，与国外也有所区别，对手术
+                                                       4  术前筛选
+        高危者，相对于国外认识更倾向于保守治疗［8］。结合国
+        情及国内外研究进展，建议TAVR适应证和禁忌证如下：                         TAVR术前筛选包括临床因素评估及影像学评估。
+        3. 1  绝对适应证                                        临床因素评估包括：（        1）是否需要置换瓣膜，包
+            （1）重度AS：超声心动图示跨主动脉瓣血流速                     括TAVR预期获益程度；（         2）外科手术风险；（      3）有
+        度≥4.0 m/s，或跨主动脉瓣平均压力差≥40 mmHg                  无TAVR禁忌证。
+        （1 mmHg=0.133 kPa），或主动脉瓣口面积＜                       影像学评估是TAVR术前评估的重点，包括
+        1.0 cm 2，或有效主动脉瓣口面积指数＜0.5 cm2/m2；              自体主动脉瓣膜、主动脉瓣环、主动脉、冠状动脉
+        低流速、低压差者经多巴酚丁胺负荷试验、多普勒                         及外周动脉解剖情况，判断是否适合TAVR及置入
+        超声评价或者其他影像学手段评估判断为重度AS                         瓣膜的型号。（      1）经胸超声心动图（transthoracic 
+        者。（  2）患者有症状：如气促、胸痛、晕厥，纽约心脏                    echocardiography，TTE）或经食管超声心动图
+        病协会（New York Heart Association，NYHA）心功         （transesophageal echocardiography，TEE）。可评
+        能分级Ⅱ级以上，且该症状明确为AS所致。（                3）解剖      估心脏形态及功能、瓣膜功能及解剖、主动脉根部
+        学上适合TAVR：包括瓣膜钙化程度、主动脉瓣环内                       的解剖。对于不能耐受CT检查患者，超声心动图检
+        径、主动脉窦内径及高度、冠状动脉开口高度、入径                        查可作为术前主动脉根部解剖评估主要手段。大
+        血管内径等。（     4）纠治AS后的预期寿命超过12个月。                部分患者主动脉瓣环的形态为椭圆形，使用常规二
+
+
+202006正文.indd   302                                                                              2020/6/29   15:50:22
+        中国介入心脏病学杂志     2020年  6 月第 28 卷第  6 期  Chin J Intervent Cardiol, June 2020, Vol 28, No.6 · 303 ·
+
+        维超声心动图从单一切面测量瓣环不够准确，三维                         主动脉水平以上。若双侧股动脉均无法作为入径，可
+        超声心动图可弥补该缺陷。（            2）多排计算机断层扫            选择其他入径，如颈总动脉、心尖部等，通常需外科
+        描（multislices computed tomography， MSCT）。      医师配合建立通路。
+        MSCT是目前TAVR影像学评估最主要的手段之一，                          （2）导丝进入左心室：跨瓣导丝一般选用直
+        是判断患者是否适合TAVR及选择人工瓣膜型号的                        头导丝或直头亲水涂层导丝，指引导管一般为6 F 
+        主要依据。通过三维重建，可以多切面观察瓣膜形                         Amplatzer L左冠状动脉造影导管。跨瓣导丝及指引
+        态，评估瓣膜厚度、钙化程度及其在主动脉根部所                         导管进入左心室后，将指引导管交换为猪尾导管，退
+        占体积，在瓣环平面测量瓣环的周长和面积，继而计                        出导丝进行左心室内压力测定，再由猪尾导管导入塑
+        算瓣环内径，为瓣膜型号、类型选择提供依据，并可                        型后的超硬导丝至左心室内。超硬导丝头端应塑型成
+        评估术后瓣周漏的风险；MSCT还可以用来评估冠状                       圆圈状，增加与左心室的接触面积，以支撑扩张球囊
+        动脉开口的高度，预估冠状动脉阻塞的风险，评估冠                        及瓣膜输送系统。
+        状动脉病变。MSCT也可用来对血管入径进行评估。                           （3）球囊扩张：球囊扩张应在右心室快速起搏下
+        （3）血管造影。主动脉根部造影测量主动脉瓣环、主                       进行，起搏的频率应以动脉收缩压＜60 mmHg、脉压
+        动脉内径以及冠状动脉高度等方面均不够准确，目前                        差低于20 mmHg为宜，一般为180~220次/分。当起搏后
+        在术前很少应用。术中腹主动脉及分支造影可用来                         血压达到目标血压时，快速充分地扩张球囊，快速抽
+        评估血管入径的情况。冠状动脉造影可用来准确评                         瘪球囊，随后停止起搏。球囊充盈、排空应快速，总起
+        估是否合并冠心病及冠状动脉狭窄程度。                             搏时间应小于15 s，以免长时间低灌注造成严重的并发
+                                                       症。球囊预扩张有利于输送系统通过瓣口、稳定血流
+        5  操作规范及术后抗栓治疗
+                                                       动力学，还可协助选择人工瓣膜型号［29］、预测瓣膜堵
+        5. 1  硬件设施及人员配备                                塞冠状动脉的风险。各中心对球囊直径选择经验有所
+            建议TAVR在改装后的心导管室或杂交手术室进                     不同，但所选用球囊直径不宜超过自体瓣环直径。
+        行，并建立多学科心脏团队。具体要求见《经导管主动                           （4）释放瓣膜：瓣膜释放前，应将由辅路送入
+        脉瓣置换术团队建设及运行规范中国专家建议》［26］。                     的猪尾导管放置在无冠窦的最低点作为参考。调
+        5. 2  操作要点                                     整DSA投照角度，使得3个窦底在同一平面，术前
+            初步开展TAVR的中心，建议TAVR在全麻下，TEE                 MSCT可为此提供角度。瓣膜释放后最佳深度为0~
+        及数字减影血管造影（digital subtraction angiography，     6 mm。由于多数情况下瓣膜释放过程中瓣膜会向下
+        DSA）引导下完成。在TAVR经验丰富的中心，对预估手                    移位，故起始释放深度要略高于此深度，并在释放
+        术难度和风险适中的患者，也可选择于局部麻醉联合                        过程中根据瓣膜移位情况随时调整瓣膜的深度。瓣
+        镇静下、无TEE引导实施极简式TAVR［27-28］。由于目前                膜释放过程中可根据猪尾导管、瓣膜钙化影等标记
+        国内绝大多数患者使用自膨胀的瓣膜，下文主要阐述经                       或反复多次造影确认瓣膜深度，瓣膜深度的调整可
+        股动脉入径置入自膨式瓣膜的操作要点如下。                           通过推拉输送系统或者超硬导丝来完成。瓣膜释放
+            （1）血管入径的建立：在瓣膜入径血管的对侧                      过程应缓慢，瓣膜支架从竖直状态逐渐展开到锚定
+        穿刺股动脉，置入动脉鞘，放置猪尾导管至主动脉根                        状态时瓣膜容易发生移位，此过程中可辅以快速起
+        部，供测压与造影。经静脉入径放置临时起搏器导管                        搏（一般频率120~150次/分，起搏时间10~20 s），降
+        于右心室心尖部。从对侧股动脉（辅路）置入造影导                        低瓣膜移位的可能。若使用二代可回收人工瓣膜，
+        管至腹主动脉或主路分支对入径股动脉（主路）进                         对瓣膜位置或瓣膜选择不满意，可回收瓣膜再进
+        行血管造影，在DSA引导下穿刺入径股动脉，穿刺针                       行重复操作。瓣膜完全释放后，进行影像学、心电、
+        进入点应在股动脉前壁的中间且股动脉分支以上。                         血流动力学评估（主要包括瓣膜深度、瓣膜形态、
+        血管穿刺成功后，可预先放置动脉缝合装置，随后置                        跨瓣压差、瓣周漏、冠状动脉阻塞、心脏传导阻滞
+        入动脉鞘管。入径动脉也可以采用切开分离、再行穿                        等）。对于瓣膜膨胀不全或者瓣周漏严重者，可采取
+        刺的方法。入径血管需放置引导鞘管（16~22 F），在                    球囊后扩张。
+        超硬导丝的支撑、引导下缓慢将引导鞘管推进至腹                             （5）入径处理：在手术结束前应常规地从辅路
+
+
+202006正文.indd   303                                                                              2020/6/29   15:50:22
+         · 304 ·                       中国介入心脏病学杂志    2020年  6 月第 28 卷第  6 期  Chin J Intervent Cardiol, June 2020, Vol 28, No.6
+
+        股动脉行血管造影，以排除入径血管并发症。入径血                        滞（right bundle branch block，RBBB）、一度房室传
+        管的止血可采用外科缝合、ProStar或ProGlide缝合                 导阻滞、置入自膨式瓣膜、置入过深、选择直径过大
+        等方法。                                           的瓣膜、过大的球囊、室间隔膜部长度、无冠瓣钙化
+            球扩式瓣膜（Edward Sapien系列瓣膜）的TAVR              容积等解剖因素［34］。避免将瓣膜支架放得太深（＞
+        操作要点除了瓣膜释放过程不同外，其余操作与自膨                        6 mm）、避免选择直径过大的瓣膜、对已存在RBBB
+        式瓣膜的TAVR大致相似。自膨式瓣膜由于支架短，                       的患者选用球扩式瓣膜、选择内径较小的扩张球囊等
+        所以对瓣膜支架定位精确度要求高。精确的瓣膜定                         措施，可减少这一并发症的发生。对于术后心电图无
+        位需要在猪尾导管造影或者TEE引导下完成。瓣膜                        变化且术前无RBBB患者，术后即刻可拔除临时起搏
+        释放时，猪尾导管放在右冠状窦，右冠状窦在DSA                        电极，术后持续心电监护24 h；对于术前存在RBBB或
+        下投影处于另外两个窦之间的中央位置。瓣膜定位                         者术后有心电图改变的患者，需要留置临时起搏电极
+        到理想位置后，在保证起搏器完全夺获的快速起                          24 h，并进一步评估；对于术中或术后出现高度或者
+        搏心律下，使得收缩压降到50 mmHg、脉压差小于                      完全性房室传导阻滞且在术后48 h内未恢复的患者，
+        10 mmHg以下，迅速扩张、抽瘪球囊释放瓣膜。                       应植入永久性起搏器［34］。
+        5. 3  术后抗栓治疗                                   6. 2  瓣周漏
+            总体上，应权衡患者血栓风险和出血风险制定                           在第一代瓣膜中，瓣周漏是常见并发症。中度以
+        个体化方案。一般情况下，以双联抗血小板治疗3~6                       上瓣周漏，自膨式瓣膜（CoreValve）可达16.0%，球扩
+        个月后，终身单药抗血小板治疗（通常为阿司匹林                         式瓣膜Sapient为9.1%［35］。随着采用防瓣周漏技术的
+        100 mg、每日1次联合氯吡格雷75 mg、          每日1次治疗        新一代瓣膜使用，该并发症发生率越来越低。大多
+        3~6个月，之后阿司匹林100 mg、每日1次）；对于发现                  数的患者瓣周漏为轻微至轻度，且自膨式瓣膜可随
+        有瓣膜血栓者，以及部分合并其他抗凝适应证的患                         着时间延长可能减轻。研究显示，中度以上瓣周漏和
+        者，予单纯抗凝治疗［4-5］。                                患者远期死亡率相关。瓣膜选择过小、钙化过于严
+                                                       重或巨大钙化团块、瓣膜置入过浅或过深是瓣周漏
+        6  并发症防治
+                                                       发生的危险因素［35］。瓣膜置入后应对瓣周漏及其程
+            为了统一各并发症的定义、方便各研究之间的                       度进行评估，使用包括主动脉根部造影、血流动力
+        对比，瓣膜学术研究联盟（Valve Academic Research            学测定（可使用主动脉反流指数）、多普勒超声等手
+        Consortium，VARC）发表了TAVR临床研究终点标                 段［36］，对瓣周漏的程度、发生部位、血流动力学的影
+        准定义，并进行了更新（VARC-2）［30］，严重并发症                   响进行综合评估；对于中度以上瓣周漏，应该尽量积
+        及其防治如下：                                        极干预。可使用球囊后扩张（瓣膜膨胀不全或贴合
+        6. 1  心脏传导阻滞                                   欠佳时）、再次置入瓣膜支架（瓣膜位置过高或过低
+            为目前TAVR最常见的并发症，主要包括新发的左                    时）、封堵器封堵瓣周漏等技术。严重患者需外科干
+        束支传导阻滞（left bundle branch block，LBBB）和导致       预。避免选择瓣膜过度钙化患者、选择合适型号的瓣
+        永久起搏器植入（permanent pacemaker implantation，      膜、瓣膜深度的准确定位，可以降低瓣周漏的发生。
+        PPM）的房室传导阻滞。TAVR其他并发症的发生率                      6. 3  冠状动脉阻塞
+        随着器械改进而进一步下降，但传导阻滞发生率并                             冠状动脉阻塞是TAVR少见（0.66%）却是致命
+        未随着器械的更新明显下降［17］。在第一代瓣膜中，                      性的并发症［37］，也是术前影像学筛选重点以及患者
+        新发LBBB发生率约为25%，自膨式瓣膜（18%~65%）                  被排除行TAVR主要原因之一。TAVR冠状动脉阻
+        高于球扩式瓣膜（4%~30%）［31］。TAVR导致PPM发                 塞的主要机制是自体瓣膜上翻堵住冠状动脉开口。
+        生率为13%，自膨式瓣膜（25%~28%）发生率约为球                    此外，瓣膜支架放置过高，裙边挡住冠状动脉开口，
+        扩式瓣膜的5倍（5%~7%）［32］。导致PPM的房室传导                  也可致冠状动脉阻塞。术前CT评估应从瓣叶情况、
+        阻滞大多数发生于TAVR术中，但仍有30%患者发生                      主动脉窦解剖及拟置入的瓣膜特性三个方面综合
+        在48 h后，有些患者甚至发生在术后1个月至6个月                      考虑（表1）。对于解剖结构不合适的患者应避免行
+        内［33］ 。PPM的危险因素包括术前存在右束支传导阻                    TAVR。术中选择合适的球囊，在进行球囊扩张的同
+
+
+202006正文.indd   304                                                                              2020/6/29   15:50:23
+        中国介入心脏病学杂志     2020年  6 月第 28 卷第  6 期  Chin J Intervent Cardiol, June 2020, Vol 28, No.6 · 305 ·
+
+        时进行主动脉根部造影，观察冠状动脉的显影情况，                        粥样斑块、钙化、过度扭曲等，可致血管并发症。术
+        有助于进一步评估冠状动脉堵塞的风险。冠状动脉                         前应使用MSCT全面仔细评估血管入径，选择血管
+        阻塞高风险患者防治策略：（           1）允许的情况下选小一            条件较好的入径，避免选择内径过小、过于扭曲的入
+        号瓣膜、置入适度深一些，可降低冠状动脉堵塞的风                        径血管，避免粗暴操作。一旦出现血管并发症，可采
+        险，但瓣周漏的发生可能会增多；（             2）可行冠状动脉          用外周血管球囊、外周覆膜支架，必要时进行血管外
+        保护策略，包括在冠状动脉预置导丝、球囊或支架；                        科手术处理。
+        （3）若发生冠状动脉急性或延迟性闭塞，可行急诊                           （ 2）心脏压塞：发生率为1%~2%［43］。为了减少该
+        冠状动脉介入或外科开胸手术行冠状动脉旁路移植                         并发症的发生，应将加硬导丝头端塑型成圆圈状，在
+        术进行补救。                                         球囊扩张、进输送鞘管时应固定好加硬导丝。直头导
+                                                       丝进左心室时，应避免用力过猛，引起主动脉窦部或
+                  表 1  冠状动脉阻塞风险相关因素                    者左心室穿孔。
+           因素                  相关表现                       （ 3）主动脉夹层、撕裂：是TAVR的致命并发症。
+         瓣叶     1. 自身瓣叶过长，高于冠状动脉开口甚至窦管交界处的高度           准确地测量主动脉瓣瓣环的大小、勿使用过大的扩
+                2. 靠近冠状动脉开口的瓣叶存在钙化团块
+                                                       张球囊可减少这一并发症的发生。
+                3. 靠近冠状动脉开口的瓣叶过度增厚
+         主动脉窦   1. 冠状动脉开口高度低（＜  12 mm）                 7  特殊病例处理
+                2. 瓦氏窦较小（＜ 30 mm）
+                3. 窦管交界处高度低，且窦管交界直径较小                  7. 1   BAV  
+                4. 主动脉瓣叶之间融合难以打开或者瓣叶存在巨大团块，                BAV有多种分型方法，使用较多的是2007年的
+                预计人工瓣膜移向对侧的冠状动脉开口
+                                                       SIEVERS分型方法，分为0、Ⅰ、Ⅱ型，先天性二叶式
+                5. 既往外科手术换瓣病史，如   David 和 Bentall 手术术后冠
+                状动脉开口低                                 畸形多为0型，1个瓣叶交界融合为Ⅰ型，2个瓣叶交
+         经导管瓣膜  1. 瓣膜置入位置过高                            界融合为Ⅱ型。目前欧美尚未将BAV钙化性狭窄列
+                2. 自膨式瓣膜裙边不对称，裙边较高处对着冠状动脉开口
+                                                       入TAVR适应证。但越来越多证据显示，BAV患者行
+                                                       TAVR效果不劣于TAV［19-22， 44］。与TAV相比较，BAV
+        6. 4  卒中                                       行TAVR不利因素包括：（         1）瓣环呈椭圆形，导致置
+            TAVR相关的卒中可能与导管操作过程中致主                      入瓣膜不容易完全膨胀，可能影响长期耐久性；（                  2）
+        动脉瓣上钙化物质脱落相关。临床有症状的卒中发                         自体瓣膜不容易完全扩开，呈现梯形瓣叶形态，出现
+        生率为2%~3%，头颅磁共振成像显示，TAVR术后缺                     置入瓣膜受自体瓣膜挤压而向心室下移，从而导致
+        血性脑损伤常见（80%~90%）［38］。TAVR相关的卒中                 置入过深，瓣中瓣置入发生率较高；（               3）瓣膜钙化
+        危险因素除了患者本身特性外，还包括球囊预扩张、                        程度不高，不对称，瓣叶不等大，容易发生残余瓣周
+        输送系统在体内时间、快速起搏、瓣膜回收重置等手                        漏；（  4）升主动脉扩张远期可能有夹层风险。根据目
+        术因素［39］。术中应避免反复操作，减少操作次数，可                     前国内的经验，针对BAV，瓣膜选择更多依赖瓣上结
+        能会减少卒中的发生。高危患者可考虑使用脑保护                         构，瓣膜的周长、直径、面积仅供参考，根据瓣环周
+        装置。临床研究显示，脑保护装置可以减少磁共振监                        长选择合适的扩张球囊，术中进行扩张，根据球囊扩
+        测的脑损伤，但是否可以减少临床事件有待进一步                         张的直径选择合适的瓣膜；自膨式瓣膜释放时起始
+        研究［40］。若发生卒中，应请神经专科医师协同处理。                     位置一般要高些（深度为0~2 mm）。 
+        6. 5  其他并发症                                    7. 2  外科生物瓣衰败
+           （ 1）局部血管并发症：主要是入径血管，股动脉、                        外科手术主动脉瓣换瓣发生衰败时，二次外科
+        髂动脉、腹主动脉出现夹层、闭塞、破裂出血等，既                        手术换瓣手术风险较高， TAVR的瓣中瓣技术为此
+        往发生率可达16.7%［41］。随着18 F及以下输送系统的                 类患者提供了一种选择。操作技巧和手术要点：（                   1）
+        应用，该并发症发生率降低至4.2%［42］。老年患者、                    术前明确外科生物瓣的类型、尺寸，与MSCT结果互
+        特别是合并症多如高血压病、慢性肾功能不全、糖尿                        相印证，选择合适瓣膜；（          2）了解病变瓣膜的X线影
+        病、遗传性高胆固醇血症的患者，易发生血管狭窄、                        像特性，为瓣膜置入深度的参照（注意有些瓣膜X线
+
+
+202006正文.indd   305                                                                              2020/6/29   15:50:23
+         · 306 ·                       中国介入心脏病学杂志    2020年  6 月第 28 卷第  6 期  Chin J Intervent Cardiol, June 2020, Vol 28, No.6
+
+        显示的环并非瓣膜支架的最低点） ；（             3）了解瓣膜病         分地预扩张，根据球囊扩张结果选择小型号瓣膜，自
+        变类型（如狭窄、反流或合并存在），以反流为主的                        膨式瓣膜释放时起始位置要高些。
+        病变可不做球囊预扩张，以降低卒中的概率；（                  4）有     7. 8  肾功能不全
+        些患者外科生物瓣膜瓣环内径较小（如19 mm），主                          TAVR术中由于使用对比剂以及低灌注，可导
+        动脉瓣口压差可能是由于左心室流出道狭窄或者人                         致急性肾损伤，继而影响患者预后［47］。然而，最近
+        工瓣膜患者不匹配导致而非瓣膜狭窄，应该观察生                         研究显示由于TAVR改善患者的肾灌注，更多患者
+        物瓣膜病变及开放情况，仔细鉴别。当MSCT测得瓣                       表现为肾功能改善［48-49］。因此，肾功能不全（包括
+        环内径小于17 mm时，应该谨慎。                              尿毒症）不是TAVR患者手术禁忌证。术中应该尽
+        7. 3  无钙化或轻度钙化                                 量少用对比剂，避免长时间低灌注，必要时术后予
+            目前研究显示，对于瓣膜无钙化、轻度钙化的                       血液透析。
+        AS，使用自膨式瓣膜行TAVR是安全有效的［45-46］。非                 7. 9  合并冠心病
+        钙化性AS病因多为风湿性的。由于无钙化或轻度钙                            接受TAVR的患者中15%~80%合并有冠心病，
+        化，瓣膜释放后易移位，故瓣膜型号选择一般倾向于                        STS评分越高者发生率越高［50］。虽然观察性研究
+        较大。较少使用球囊预扩张或后扩张。瓣中瓣置入概                        尚未证实经皮冠状动脉介入治疗（percutaneous 
+        率较高。                                           coronary intervention，PCI）对合并冠心病患者的益
+        7. 4  血管入径不良                                   处，目前指南及临床实践仍建议对近端冠状动脉狭
+            目前，国内上市的经股动脉瓣膜输送系统为18 F                    窄大于70%的患者在TAVR前进行PCI［51］。多项研究
+        或以上，一般要求股动脉最狭窄直径在6.0 mm以上。                     显示在TAVR术前分期的PCI或者与TAVR同期的PCI
+        当股动脉血管入径不佳时，如存在较严重狭窄或者                         均是可行的且结果相似［50］。但对于左心室射血分数
+        钙化（非圆周形）的，可考虑采用无鞘技术，把血管                        低于30%或者STS评分大于10%者，PCI风险明显增
+        直径要求降低到4.5 mm。若无鞘技术不可行或仍存                      加，建议选择同期PCI，术中先予主动脉瓣球囊扩张
+        在较大风险，可根据患者的实际情况选择颈动脉、锁                        改善血流动力学再予PCI［52］。
+        骨下动脉、升主动脉、心尖等其他入径。                             7. 10  紧急TAVR 
+        7. 5  水平型主动脉                                       某些患者来诊时病情就已危重，出现严重心力
+            水平型主动脉与瓣环平面角度大，瓣膜通过困                       衰竭或血流动力学不稳，无法择期TAVR，需紧急
+        难，同时输送系统与主动脉不同轴，瓣膜支架下缘释                        （24 h内）行TAVR。这些患者往往无法耐受MSCT检
+        放后在X线下与瓣环平面不平行，使得瓣膜释放时                         查，故术前评估主要依赖于超声心动图，尤其是三维
+        定位困难，瓣膜完全释放后容易放置过深，导致瓣周                        超声心动图。术中以血管造影评估入径情况，以球囊
+        漏、传导阻滞、二尖瓣功能受影响的概率大大增加。                        扩张评估瓣环大小及冠状动脉堵塞的风险。有些患
+        操作技巧和注意事项如下：（            1）输送系统跨瓣困难            者左心室射血分数特别低（＜25%），或者血流动力
+        时，可用抓捕器（snare）辅助，尤其是在因为瓣周漏                     学不稳，可术前或术中使用体外膜肺氧合等循环辅
+        严重需要置入第二个瓣膜时；（             2）选择有可回收功           助支持［53］。特别危重患者在导管室无配备人工瓣膜
+        能的二代人工瓣膜系统，可允许瓣膜位置不理想时                         的情况下，亦可先行单纯主动脉瓣扩张术，待病情相
+        重新调整位置；（       3）新一代可调弯输送系统可有助                 对稳定再行MSCT检查评估，后择期行TAVR。
+        于解决这问题。                                            综上，相对于《经导管主动脉瓣置换术中国专家
+        7. 6  冠状动脉开口位置低                                共识（2015版） 》 ，《  经导管主动脉瓣置换术中国专家
+            术前术中应该仔细评估，并可采取一些防治措                       共识（2020更新版）》主要更新内容为：（              1）更新了
+        施，详见本文6.3节冠状动脉阻塞。                              流行病学认识，指出我国主动脉瓣病变患者风湿性
+        7. 7  瓣膜极度钙化的AS                                病因比例较高，在BAV患者各解剖亚型的构成比中，
+            这类患者瓣膜极度钙化、钙化团块巨大，容易导                      我国患者0型（无嵴型）占比较西方国家高。（                 2）更
+        致输送系统难以跨瓣、瓣膜支架无法充分展开、严                         新了适应证，根据最新临床试验结果，将高龄（≥70
+        重瓣周漏、需要球囊后扩张等不利情况。应该适当充                        岁）、外科手术低危险纳入相对适应证；外科手术极
+
+
+202006正文.indd   306                                                                              2020/6/29   15:50:23
+             中国介入心脏病学杂志            2020年  6 月第 28 卷第   6 期  Chin J Intervent Cardiol, June 2020, Vol 28, No.6                               · 307 ·
+
+             高危行TAVR无具体年龄要求；中危、年龄≥70岁患                                             医 院 ），陆 方 林（ 海 军 军 医 大 学 第 一 附 属 医 院 ），马 根 山 
+             者也为TAVR适应证；60~70岁的患者，由心脏团队根                                           （东 南 大 学 附 属 中 大 医 院 ），马 为（ 北 京 大 学 第 一 医 院 ），
+             据外科手术风险及患者意愿判断为适合行TAVR。                                               宁忠平（上海健康医学院附属周浦医院），潘湘斌（中国 
+             （3）对瓣膜置入操作步骤进行更新，强调了球囊预                                               医学科学院阜外医院），尚小珂（华中科技大学同济医学 
+             扩张可用于协助选择人工瓣膜型号、预测瓣膜堵塞                                                院 附 属 协 和 医 院 ），盛 国 太（ 江 西 省 人 民 医 院 ），王 斌（ 北
+             冠状动脉的风险，指出瓣膜释放过程可辅以快速起                                                部 战 区 总 医 院 ），王 斌（ 厦 门 大 学 附 属 心 血 管 病 医 院 ），
+             搏降低瓣膜移位的可能性。（                        4）增加了术后抗栓方                       王 玉 林（ 山 东 省 立 医 院 ），王 震（ 河 北 医 科 大 学 第 一 医
+             案，一般情况下，以双联抗血小板治疗3~6个月后，终                                             院 ），徐 凯（ 北 部 战 区 总 医 院 ），杨 毅 宁（ 新 疆 医 科 大 学 第
+             身单药抗血小板治疗；对于发现有瓣膜血栓者，以及                                               一 附 属 医 院 ），于 波（ 哈 尔 滨 医 科 大 学 附 属 第 二 医 院 ），
+             部分合并其他抗凝指征的患者，予单纯抗凝治疗。                                                袁 义 强（ 河 南 省 胸 科 医 院 ），张 曹 进（ 广 东 省 人 民 医 院 ），
+             （5）对心脏传导阻滞、冠状动脉堵塞及瓣周漏等三                                               张戈军（中国医学科学院阜外医院），张浩（江苏省人民
+             个重要的并发症的防治进行更详尽的阐述及更新。                                                医 院 ），张 龙 岩（ 武 汉 亚 洲 心 脏 病 医 院 ），张 瑞 岩（ 上 海 交 
+                                                                                   通大学医学院附属瑞金医院），张玉顺（西安交通大学第 
+             （6）在特别病例处理中，增加了肾功能不全、合并冠
+                                                                                   一 附 属 医 院 ），张 志 辉（ 陆 军 军 医 大 学 第 一 附 属 医 院 ），
+             心病以及急诊TAVR等三种临床常见情况的处理。
+                                                                                   朱政斌（上海交通大学医学院附属瑞金医院）
+             执笔：周达 新（复旦大学附属中山医院），潘文志（复旦
+             大学附属中山医院），吴永健（中国医学科学院阜外医
+                                                                                                           参考文献
+             院）， 宋光 远（中国医学科学院阜外医院）
+
+             核心专家组成员（按姓氏汉语拼音排序）：陈良 龙（福                                              ［   1   ］    Cribier A， Eltchaninoﬀ  H， Bash A， et al. Percutaneous transcatheter 
+             建医科大学附属协和医院），陈茂（四川大学华西医                                                        implantation of an aortic valve prosthesis for calcific aortic 
+             院 ），霍 勇（ 北 京 大 学 第 一 医 院 ），孔 祥 清（ 江 苏 省 人 民                                    stenosis： first human case description. Circulation， 2002， 106
+                                                                                           （24）： 3006-3008.
+             医院），刘先宝（浙江大学医学院附属第二医院），罗建                                              ［   2   ］   Holmes DR， Mack MJ， Kaul S， et al.  2012  ACCF/AATS/SCAI/
+             方（广东省人民医院），宋治远（陆军军医大学第一附属                                                      STS expert consensus document on transcatheter aortic valve 
+                                                                                            replacement. J Am Coll Cardiol， 2012， 59（13）：1200-1254. 
+             医 院 ），苏        （ 武 汉 亚 洲 心 脏 病 医 院 ），陶 凌 （ 空 军 军 医                     ［   3   ］    Nishimura RA， Otto CM，  Bonow RO，  et al. 2014  AHA/ACC 
+             大学西京医院），王建安（浙江大学医学院附属第二医                                                       guideline for the management of patients with valvular heart 
+                                                                                            disease： executive summary： a report of the American College 
+             院 ），王 焱（ 厦 门 大 学 附 属 心 血 管 病 医 院 ），杨 剑（空 军 军
+                                                                                            of Cardiology/American Heart Association task force on practice 
+             医大学第一附属医院），张海波（首都医科大学附属北                                                       guidelines. J Am Coll Cardiol， 2014，63（22）：2438-2488.
+             京安贞医院），赵仙先（海军军医大学第一附属医院），                                              ［   4   ］    Baumgartner H， Falk V， Bax JJ， et al. 2017 ESC/EACTS guidelines 
+                                                                                            for the management of valvular heart disease. Eur Heart J，2017，38
+             周玉杰（首都医科大学附属北京安贞医院）                                                           （36）：2739-2791.
+             专家组成员（按姓氏汉语拼音排序）：安 健（山 西 省 心                                           ［   5   ］    Nishimura RA，  Otto CM，  Bonow RO，  et al.  2017  AHA/ACC 
+                                                                                            focused update of the 2014 AHA/ACC guideline for the management 
+             血 管 病 医 院 ），白明（兰 州 大 学 第 一 医 院 ），陈 维（ 上 海                                      of patients with valvular heart disease： A report of the American 
+             市第十人民医院），陈韵岱（解放军总医院第一医学中                                                       College of Cardiology/American Heart Association task force on 
+                                                                                            clinical practice guidelines. J Am Coll Cardiol，2017，70（2）：
+             心 ），方 军（ 福 建 医 科 大 学 附 属 协 和 医 院 ），方 臻 飞（ 中 南
+                                                                                            252-289.
+             大 学 湘 雅 二 医 院 ），冯 沅（ 四 川 大 学 华 西 医 院 ），郭 然（大                           ［   6   ］    Otto CM ， Kumbhani DJ，  Alexander KP，  et al.  2017  ACC  expert 
+             连 医 科 大 学 附 属 第 一 医 院 ），郭 延 松（ 福 建 省 立 医 院 ），                                  consensus decision pathway for transcatheter aortic valve replacement 
+                                                                                            in the management of adults with aortic stenosis： a report of the 
+             何奔（上海市胸科医院），胡海波（中国医学科学院阜外                                                      American College of Cardiology task force on clinical expert consensus 
+             医院），江磊（青岛大学附属医院），姜正明（郑州大学第                                                     documents. J Am Coll Cardiol， 2017，69（10）：1313-1346.
+                                                                                    ［   7   ］    葛均波，周达新，潘文志，等.  经皮主动脉瓣置入术一例报道附操
+             一附属医院），晋军（陆军军医大学第二附属医院），李                                                      作要点. 中国介入心脏病杂志，2010，18（5）： 243-246.
+             飞（空军军医大学第一附属医院），李捷（广东省人民医                                              ［   8   ］    中国医师协会心血管内科医师分会结构性心脏病专业委员会，
+                                                                                           中华医学会心血管病学分会结构性心脏病学组. 经导管主动脉瓣
+             院 ），李 元 十（ 哈 尔 滨 医 科 大 学 附 属 第 一 医 院 ），李 智 博
+                                                                                            置换术中国专家共识. 中国介入心脏病学杂志，2015，23（12）：
+             （吉林大学第二医院），刘长福（解放军总医院第一医学                                                      661-667.
+             中 心 ），刘 巍 （ 首 都 医 科 大 学 附 属 北 京 安 贞 医 院 ），刘 煜                          ［   9   ］    Otto CM， Lind BK， Kitzman DW， et al. Association of aortic-valve 
+                                                                                            sclerosis with cardiovascular mortality and morbidity in the elderly. 
+             昊（阜外华中心血管病医院），卢成志（天津市第一中心                                                      N Engl J Med，1999，341（3）：142-147.
+
+
+202006正文.indd   307                                                                                                                               2020/6/29   15:50:23
+              · 308 ·                                      中国介入心脏病学杂志           2020年  6 月第  28 卷第   6 期  Chin J Intervent Cardiol, June 2020, Vol 28, No.6
+
+             ［10］    Nkomo VT， Gardin JM， Skelton TN， et al.  Burden  of  valvular          of minimalist approach in transfemoral transcatheter aortic valve 
+                      heart diseases： a population-based study. Lancet， 2006，368（9540）：     replacement： insights from the Optimized transCathEter vAlvular 
+                     1005-1011.                                                             interventioN-Transcatheter Aortic Valve Implantation （OCEAN-
+             ［11］    Pan W， Zhou D， Cheng L， et al. Candidates for transcatheter aortic     TAVI） registry. Interact Cardiovasc Thorac Surg，2018，26（3）：
+                      valve implantation may be fewer in China. Int J Cardiol，2013，168      420-424. 
+                     （5）：e133-e134.                                                 ［29］    Liu X， He Y， Zhu Q， et al. Supra-annular  structure  assessment for 
+             ［12］    Jilaihawi H， Wu Y， Yang Y，et al.  Morphological characteristics of     self-expanding transcatheter heart valve size selection in patients 
+                     severe aortic stenosis in China： imaging corelab observations from     with bicuspid aortic valve. Catheter Cardiovasc Interv， 2018，91
+                      the ﬁ rst Chinese transcatheter aortic valve trial. Catheter Cardiovasc （5）：986-994.
+                      Interv，2015，85 （Suppl 1）：752-761.                             ［30］    Kappetein AP， Head SJ， Généreux P， et al.  Updated  standardized 
+             ［13］   Pan W， Zhou D， Cheng L， et al.  Aortic  regurgitation  is  more         endpoint deﬁ nitions for transcatheter aortic valve implantation： the 
+                      prevalent than aortic stenosis in Chinese elderly population：         valve academic research consortium-2 consensus document. J Am 
+                      implications for transcatheter aortic valve replacement. Int J Cardiol， Coll Cardiol，2012，60（15）：1438-1454. 
+                      2015，201：547-548.                                             ［31］     A u ﬀ  r e t  V ， Puri R， Urena M， et al.  Conduction  disturbances  after 
+             ［14］   Li Y， Wei X， Zhao Z， et al.  Prevalence  and  complications  of         transcatheter aortic valve replacement： current status and future 
+                      bicuspid aortic valve in Chinese according to echocardiographic       perspectives. Circulation，2017，136（11）：1049-1069. 
+                      database. Am J Cardiol，2017，120（2）：287-291.                   ［32］    Siontis GC，  Jüni P，  Pilgrim T，  et al.  Predictors  of  permanent 
+             ［15］    Hu P， Liu XB， Liang J， et al.  A hospital-based  survey  of  patients  pacemaker implantation in patients with severe aortic stenosis 
+                      with severe valvular heart disease in China. Int J Cardiol，2017，231：  undergoing TAVR： a Meta-analysis. J Am Coll Cardiol，2014， 64
+                      244-247.                                                             （2）：129-140.
+             ［16］    潘文志，李明飞，周达新，等. 重度主动脉瓣狭窄患者二叶式主动脉                                ［33］    Petronio AS， Sinning JM， Va n  Mieghem N， et al.  Optimal 
+                      瓣的超声心动图分析. 中华心血管病杂志， 2015，43（3）： 244-247.                             implantation depth and adherenceto guidelines on permanent pacing 
+             ［17］    Mack MJ， Leon MB， Thourani VH， et al. Transcatheter  aortic-           to improve the results of transcatheter aortic valve replacement 
+                      valve replacement with a balloon-expandable valve in low-risk         with the medtronic coreValve system： the CoreValve prospective， 
+                      patients. N Engl J Med，2019，380（18）：1695-1705.                        international， post-market ADVANCE-Ⅱ Study. JACC Cardiovasc 
+             ［18］    Popma JJ， Deeb GM， Yakubov SJ， et al. Transcatheter  aortic-valve      Interv，2015，8（6）：837-846. 
+                      replacement with a self-expanding valve in low-risk patients. N Engl ［34］    Rodés-Cabau J， Ellenbogen KA， Krahn AD， et al.  Management 
+                      J Med，2019，380（18）：1706-1715.                                         of conduction disturbances associated with transcatheter aortic valve 
+             ［19］    Liu XB， Jiang JB， Zhou QJ， et al. Evaluation  of  the  safety  and     replacement： JACC Scientific Expert Panel. J Am Coll Cardiol，
+                      efficacy of transcatheter aortic valve implantation in patients with  2019，74（8）：1086-1106. 
+                      a severe stenotic bicuspid aortic valve in a Chinese population. J ［35］    Athappan G， Patvardhan E， Tuzcu EM， et al.  Incidence， 
+                      Zhejiang Univ Sci B，2015，16（3）：208-214.                               predictors， and outcomes of aortic regurgitation after transcatheter 
+             ［20］    Liao YB， Li YJ， Xiong TY， et al.  Comparison  of  procedural，          aortic valve replacement： Meta-analysis and systematic review of 
+                      clinical and valve performance results of transcatheter aortic valve  literature. J Am Coll Cardiol，2013，61（15）：1585-1595. 
+                      replacement in patients with bicuspid versus tricuspid aortic stenosis. ［36］    Pibarot P， Hahn RT， Weissman NJ， et al.  Assessment  of  paravalvular 
+                      Int J Cardiol，2018，254：69-74.                                         regurgitation following TAVR： a proposal of unifying grading 
+             ［21］    Zhou D， Pan W， Wang J， et al.  VitaFlow™  transcatheter  valve         scheme. JACC Cardiovasc Imaging，2015，8（3）：340-360. 
+                     system in the treatment of severe aortic stenosis： One-year results ［37］    Ribeiro HB， Webb JG， Makkar RR， et al.  Predictive  factors， 
+                      of a multicenter study. Catheter Cardiovasc Interv，2020，95（2）：        management， and clinical outcomes of coronary obstruction 
+                      332-338.                                                              following transcatheter aortic valve implantation： insights from 
+             ［22］    宋光远，王墨扬，王媛，等. Ven us-A主动脉瓣膜介入治疗重度主动                                    a large multicenter registry. J Am Coll Cardiol，2013，62（17）：
+                     脉瓣狭窄的效果. 中华心血管病杂志，2017，45（10）：843-847.                                 1552-1562. 
+             ［23］    Liu H， Yang Y， Wang W， et al.  Transapical  transcatheter  aortic ［38］    Lansky AJ， Brown D， Pena C， et al.  Neurologic  complications  of 
+                      valve replacement for aortic regurgitation with a second-generation   unprotected transcatheter aortic valve implantation （from the Neuro-
+                      heart valve. J Thorac Cardiovasc Surg，2018，156（1）：106-116.            TAVI Trial）. Am J Cardiol，2016，118（10）：1519-1526.
+             ［24］   Tchétché D，  Chevalier B，  Holzhey D，  et al.  TAVR  for  failed ［39］    Davlouros PA， Mplani VC， Koniari I， et al.  Transcatheter  aortic 
+                     surgical aortic bioprostheses using a self-expanding device：           valve replacement and stroke： a comprehensive review. J Geriatr 
+                     1-year results from the prospective VIVA postmarket study. JACC        Cardiol，2018，15（1）：95-104. 
+                      Cardiovasc Interv，2019，12（10）：923-932.                        ［40］    Haussig S， Mangner N， Dwyer MG， et al.  Eﬀ ect  of  a  cerebral 
+             ［25］    Yoon SH， Schmidt T， Bleiziﬀ er S， et al.  Transcatheter aortic valve   protection device on brain Lesions following transcatheter aortic 
+                      replacement in pure native aortic valve regurgitation. J Am Coll      valve implantation in patients with severe aortic stenosis： the 
+                      Cardiol，2017，70（22）：2752-2763.                                        CLEAN-TAVI randomized clinical trial. JAMA，2016，316（6）：
+             ［26］   中国医师协会心血管内科医师分会结构性心脏病专业委员会，                                             592-601. 
+                     中华医学会心血管病学分会结构性心脏病学组. 经导管主动脉瓣                                  ［41］    Ducrocq G， Francis F， Serfaty JM， et al. Vascular complications of 
+                      置换术团队建设及运行规范中国专家建议. 中国介入心脏病学杂                                         transfemoral aortic valve implantation with the Edwards SAPIEN 
+                     志，2018，26（1）：2-6.                                                      prosthesis： incidence and impact on outcome. EuroIntervention，
+             ［27］    Lauck SB， Sathananthan J， Park J， et al.  Post-procedure  protocol     2010，5（6）：666-672.
+                      to facilitate next-day discharge： Results of the multidisciplinary， ［42］    Holmes DR， Nishimura RA， Grover FL， et al.  Annual  outcomes 
+                      multimodality but minimalist TAVR study. Catheter Cardiovasc          with transcatheter valve therapy： from the STS/ACC TVT registry. J 
+                      Interv， 2019. ［Online ahead of print］                                 Am Coll Cardiol，2015，66（25）：2813-2823.
+             ［28］    Hosoba S， Yamamoto M， Shioda K， et al.  Safety  and  eﬃ  cacy  ［43］    Landes U， Barsheshet A， Finkelstein A， et al.  Temporal  trends 
+
+
+202006正文.indd   308                                                                                                                               2020/6/29   15:50:23
+             中国介入心脏病学杂志            2020年  6 月第 28 卷第   6 期  Chin J Intervent Cardiol, June 2020, Vol 28, No.6                               · 309 ·
+
+                      in transcatheter aortic valve implantation， 2008–2014： patient        prognostic significance of acute kidney recovery in patients who 
+                      characteristics， procedural issues， and clinical outcome.Clin         underwent transcatheter aortic valve implantation. Am J Cardiol，
+                      Cardiol，2017，40（2）： 82-88.                                            2018，121（5）：634-641.
+             ［44］    Yoon SH， Bleiziﬀ er S， De Backer O， et al.  Outcomes  in transcatheter ［50］    Faroux L， Guimaraes L，Wintzer-Wehekind J，et al. Coronary  artery 
+                      aortic valve replacement for bicuspid versus tricuspid aortic valve   disease and transcatheter aortic valve replacement： JACC state-of-
+                     stenosis. J Am Coll Cardiol，2017，69（21）：2579-2589.                     the-art review. J Am Coll Cardiol，2019，74（3）：362-372. 
+             ［45］    Xiong TY， Feng Y， Liao YB， et al.  Transcatheter  aortic  valve ［51］    Lateef N， Khan MS， Deo SV， et al.  Meta-analysis  comparing 
+                      replacement in patients with non-calciﬁ c aortic stenosis. EuroIntervention， outcomes in patients undergoing transcatheter aortic valve 
+                      2018，13（15）：e1756-e1763.                                              implantation with versus without percutaneous coronary intervention.
+             ［46］    金沁纯， 潘文志， 陈莎莎，等.  经导管主动脉瓣置换术治疗重度主                                      Am J Cardiol，2019，124（11）：1757-1764. 
+                      动脉瓣狭窄的效果. 中华心血管病杂志，2019，47（ 7 ）： 528-533.                     ［52］    Goel SS， Ige M， Tuzcu EM，et al.  Severe  aortic  stenosis 
+             ［47］    Crowhurst JA， Savage M， Subban V， et al.  Factors  contributing        and coronary artery disease--implications for management in the 
+                      to acute kidney injury and the impact on mortality in patients        transcatheter aortic valve replacement era： a comprehensive review. 
+                      undergoing transcatheter aortic valve replacement. Heart Lung Circ，   J Am Coll Cardiol，2013，62（1）：1-10. 
+                      2016，25（3）：282-289.                                           ［53］   刘洋，丁鹏，程亮，等.          体外膜肺氧合辅助经导管主动脉瓣植入
+             ［48］    Lahoud R， Butzel DW， Parsee A， et al.  Acute  kidney  recovery         治疗极低射血分数值的重度主动脉瓣狭窄. 中国体外循环杂志，
+                      in patients who underwent transcatheter versus surgical aortic valve  2019，17（1）：13-17.
+                      replacement （from the Northern New England Cardiovascular 
+                      Disease Study Group）. Am J Cardiol，2020，125（5）：788-794.                                              （收稿日期：2020-05-19）
+             ［49］    Azarbal A， Leadholm KL， Ashikaga T， et al.  Frequency  and                                                      （编辑：齐彤）
+
+
+                                                                                                  · 读者 · 作者 · 编者 ·
+
+             本刊网站及远程稿件处理系统投入使用
+
+
+                   为顺应当今期刊网络化、数字化的发展趋势，更好                                           其余均为100元）和单位介绍信，以便稿件迅速进入审稿处
+             地为广大作者、读者提供高质量的服务，《中国介入心脏                                              理。作者自投稿之日起可随时登录本刊网站查看稿件处理
+             病学杂志》稿件远程管理系统正式投入使用。该系统根据                                              进度，不必打电话或发邮件查询，具体步骤如下：以注册
+             本刊稿件处理流程、编辑加工规范、审稿制度、管理规范                                              过的用户名和密码登录→点击“已投稿件”进入稿件管理
+             等业务需求设计，将协助作者、编辑、审稿专家、编委、                                              页面→点击右侧导航栏“立即处理”下的图标进入审稿流
+             定稿会专家、主编等相关人员多位一体地进行稿件业务处                                              程可查看稿件处理进度。稿件退修和催审稿费（版面费）
+             理，解决编辑部对稿件网络化流程管理的需要，并实现                                               的信息作者亦可在注册时填写的邮箱中看到，作者在邮箱
+             各类查询功能。作者进行网上投稿的具体步骤如下：登                                               看到相关信息后须进入本系统进行相应处理。请勿以邮箱
+             录《中国介入心脏病学杂志》网站（http：//zjxb.cbpt.cnki.                                或纸质版方式投稿，否则一律不予处理。由于准备时间仓
+             net）点击“作者投稿系统”→按提示注册（请务必按系                                            促及经验不足，网站及远程稿件处理系统必然会存在一些
+             统提示正确填写个人信息，同时记住用户名和密码，以便                                             缺点和不足之处，希望各位同仁不吝赐教，多提宝贵意
+             查询稿件处理进度）→新注册的用户名和密码登录→点击                                             见，予以指正。如果您在投稿中遇到什么问题，或者对本
+             “一步式投稿”或“导航式投稿”，按提示操作进入到稿                                             系统及网站有好的意见和建议，请及时联系我们。
+             件信息页面→添加文件→上传文件→填写文章标题、关键                                                   联系人：刘艳辉　王凯鑫
+             词，进入下一步→确定投稿信息→点击“确定投稿”即完                                                   联系电话：010-57730142
+             成稿件投稿。投稿后请速寄审稿费（除病例报告50元外，                                                                                           本刊编辑部
+
+
+202006正文.indd   309                                                                                                                               2020/6/29   15:50:23
