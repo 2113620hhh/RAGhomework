@@ -103,5 +103,6 @@ if __name__ == '__main__':
     if sys.stderr.encoding != 'UTF-8':
         sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer, 'strict')
 
+
     logger.info("启动 Flask 服务器...")
     app.run(host='0.0.0.0', port=8080, debug=True)

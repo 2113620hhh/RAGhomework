@@ -1,6 +1,4 @@
-from agents.hyp import *
-from agents.chall import *
-from agents.clin import *
+
 from coord_agent import *
 coord_agent=coord_agents()
 import json
