@@ -12,8 +12,8 @@ ENV PYTHONUNBUFFERED=1
 ENV PYTHONPATH=/code
 
 # 安装 Python 依赖
-RUN pip install --no-cache-dir -r requirements.txt
-
+#RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 # 暴露端口
 EXPOSE 8080
 
