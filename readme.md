@@ -11,21 +11,26 @@ Cardiomind API 项目
 安装依赖包：
 
 bash
+
 pip install -r requirements.txt
 启动服务：
 
 bash
+
 python app/app.py
 
 方式二：Docker运行
+
 加载Docker镜像：
 
 bash
+
 docker load -i cardiomind-api.tar
 
 运行容器：
 
 bash
+
 docker run -d --name cardiomind-container -p 8080:8080 -e HF_ENDPOINT=https://hf-mirror.com cardiomind-api
 
 API使用示例
@@ -33,6 +38,7 @@ API使用示例
 使用curl测试API接口：
 
 bash
+
 curl -X POST "http://localhost:8080/cardiomind" -H "Content-Type: application/json" --data-binary "@case1.json"
 
 注意事项
