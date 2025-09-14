@@ -23,38 +23,3 @@ print(ans2)
 print("你好，我是第三个医生！")
 print(ans3)
 
-'''
-agent_hyp = hyp_agent()
-agent_chall=chall_agent()
-agent_clin=clin_agent()
-#agent_chall.ceshi()
-query = "我心脏有点不舒服，睡眠不好"
-result = agent_hyp.do_reaserch(query,"../corpus")
-
-# 打印结果
-print("已经成功使用了第一个医生这个功能，之后是结果："+result)
-
-query2=result
-result2=agent_chall.do_reaserch(query2)
-
-print("已经成功使用了第二个医生这个功能，之后是结果："+result2)
-
-result3=agent_clin.do_reaserch(result,result2)
-
-print("已经成功使用了第三个医生这个功能，之后是结果："+result3)
-
-query = "我大腿发炎了，手臂肿了"
-result = agent_hyp.do_reaserch(query,"../corpus")
-
-# 打印结果
-print("已经成功使用了第一个医生这个功能，之后是结果："+result)
-
-query2=result
-result2=agent_chall.do_reaserch(query2)
-
-print("已经成功使用了第二个医生这个功能，之后是结果："+result2)
-
-result3=agent_clin.do_reaserch(result,result2)
-
-print("已经成功使用了第三个医生这个功能，之后是结果："+result3)
-'''
