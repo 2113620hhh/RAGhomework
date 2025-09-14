@@ -21,17 +21,22 @@ python app/app.py
 
 方式二：Docker运行
 
+（docker打包命令行）
+
+docker build -t renhongyu-Cardiomind-Agent:latest .
+
+
 加载Docker镜像：
 
 bash
 
-docker load -i cardiomind-api.tar
+docker load -i renhongyu-Cardiomind-Agent.tar
 
 运行容器：
 
 bash
 
-docker run -d --name cardiomind-container -p 8080:8080 -e HF_ENDPOINT=https://hf-mirror.com cardiomind-api
+docker run -d --name cardiomind-container -p 8080:8080 -e HF_ENDPOINT=https://hf-mirror.com renhongyu-Cardiomind-Agent.tar
 
 API使用示例
 
