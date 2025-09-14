@@ -55,3 +55,7 @@ case1.json文件应放在当前工作目录中
 如需使用其他HF endpoint，可通过修改HF_ENDPOINT环境变量实现
 
 代码地址：https://github.com/2113620hhh/RAGhomework
+
+（导出docker镜像）
+
+docker save -o E:\llm_card_homework\renhongyu-Cardiomind-Agent.tar cardiomind-api:latest
