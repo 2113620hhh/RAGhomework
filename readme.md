@@ -59,3 +59,15 @@ case1.json文件应放在当前工作目录中
 （导出docker镜像）
 
 docker save -o E:\llm_card_homework\renhongyu-Cardiomind-Agent.tar cardiomind-api:latest
+
+具体操作：
+
+sudo docker run -d --name cardiomind-container-renhongyu -p 12345:8080 -e HF_ENDPOINT=https://hf-mirror.com  cardiomind-api:latest
+
+curl -X POST "http://localhost:12345/cardiomind" -H "Content-Type: application/json" --data-binary "@case1.json"
+
+sudo docker stop cardiomind-container-renhongyu（停止容器）
+
+sudo docker rm -f cardiomind-container-renhongyu（移除容器）
+
+权限密码：Sais@2025
